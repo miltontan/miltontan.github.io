@@ -59,6 +59,14 @@
         </li>
       {% endif %}
       
+      {% if author.orcid %}
+        <li>
+          <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs"> 
+            <i class="ai fa-fw ai-orcid-square" aria-hidden="true"></i> OrcID
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
