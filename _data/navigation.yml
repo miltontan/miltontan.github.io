@@ -5,8 +5,8 @@ main:
    - title: "About"
      url: https://miltontan.github.io/
    - title: "CV"
-     url: cv/
+     url: /cv/
    - title: "Research"
-     url: research/
+     url: /research/
   # - title: "Teaching"
-  #   url: teaching/
+  #   url: /teaching/
