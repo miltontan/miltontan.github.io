@@ -15,16 +15,15 @@ The Whale Shark genome project is a collaboration between Emory University and G
 <li>2017. TD Read, RA Petit III, SJ Joseph, MT Alam, MR Weil, Maida Ahmad, R Bhimani, JS Vuong, CP Haase, DH Webb, <b>M Tan (corresponding author)</b>, ADM Dove. Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: <i>Rhincodon typus</i> Smith 1828. BMC Genomics 18: 532. doi: 10.1186/s12864-017-3926-9</li>
 </ul>
 
-## Evolution and Diversification of Cypriniformes
-{% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species. 
+## Evolution of Miniaturization in Cypriniformes
+The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species. The Cypriniformes have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</>. I have been particularly interested in understanding the evolution of miniaturization in these fishes.  
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
 <li>2016. CC Stout, M Tan (co-first author), AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
 </ul>
 
-## Evolution and Diversification of Catfishes
+## Evolution of Defenses in Catfishes
 ![image-left](/assets/images/catfishes.001_crop_sm.png){: .align-left}
 The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in twenty vertebrate species is a catfish! Through a recently-funded fellowship from the National Science Foundation, I will be using catfishes as a model system to study the evolution of defense mechanisms. 
 
