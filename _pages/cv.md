@@ -2,14 +2,22 @@
 permalink: /cv/
 ---
 
-<a href="https://miltontan.github.io/assets/Tan_CV_web.pdf">Click here</a> for PDF version of a full version of my CV.
+<a href="https://miltontan.github.io/assets/Tan_CV_web.pdf">Click here</a> for a PDF version of my full CV.
+
+## Abridged CV
+
+### Appointments
+<ul style="list-style-type:disk">
+<li>2016 – 2017. <b>Emory University</b>, Postdoctoral Fellow, Whale Shark Genomics.</li>
+</ul>
 
 ### Education
 
-<ul style="list-style-type:circle">
+<ul style="list-style-type:disk">
 <li>2016. <b>Auburn University</b>, Ph.D, Biological Sciences, supervised by Jonathan W. Armbruster</li>
 <br>
-<li>2009. <b>University of Delaware</b>, B.S., Biological Sciences with Concentration in Ecology and Organismal Biology, Honors Degree With Distinction. Minors in Marine Studies, Business Administration.</li>
+<li>2009. <b>University of Delaware</b>, B.S., Biological Sciences with Concentration in Ecology and Organismal Biology, Honors Degree With Distinction. 
+Minors in Marine Studies, Business Administration.</li>
 </ul>
 <br><br>
 ### Publications
