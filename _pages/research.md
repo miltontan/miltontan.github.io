@@ -8,7 +8,7 @@ Since a young age, I have been inspired by the diversity in fishes and their hug
 ## Whole Genome Analysis of the Whale Shark
 ![full](/assets/images/whaleshark_sm.jpg)
 {: .full}
-The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide interest in sharks, the whale shark genome represents the first published genome for any true shark. We have sequenced the whale shark genome, and will use it to understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
+The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome. In ongoing studies, we will use it to understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
