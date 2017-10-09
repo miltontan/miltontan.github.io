@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Milton Tan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/_JDE3948_sq.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biodiversity, Evolution, Genomics in Fishes"
 #  location         : "Somewhere"
   email            :
