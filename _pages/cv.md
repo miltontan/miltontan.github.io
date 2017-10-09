@@ -2,8 +2,7 @@
 permalink: /cv/
 ---
 
-Click here for PDF version of a full version of my CV.
-
+<a href="https://miltontan.github.io/assets/Tan_CV_web.pdf">Click here</a> for PDF version of a full version of my CV.
 
 ### Education
 
@@ -12,8 +11,7 @@ Click here for PDF version of a full version of my CV.
 <br>
 <li>2009. <b>University of Delaware</b>, B.S., Biological Sciences with Concentration in Ecology and Organismal Biology, Honors Degree With Distinction. Minors in Marine Studies, Business Administration.</li>
 </ul>
-
-
+<br><br>
 ### Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=Mdf7P7AAAAAJ">Google Scholar page</a> for citation metrics.
 
