@@ -10,7 +10,7 @@ Click here for PDF version of a full version of my CV.
 <ul style="list-style-type:circle">
 <li>2016. <b>Auburn University</b>, Ph.D, Biological Sciences, supervised by Jonathan W. Armbruster</li>
 <br>
-<li>2009. <b>University of Delaware</b>, B.S., </li>
+<li>2009. <b>University of Delaware</b>, B.S., Biological Sciences with Concentration in Ecology and Organismal Biology, Honors Degree With Distinction. Minors in Marine Studies, Business Administration.</li>
 </ul>
 
 
