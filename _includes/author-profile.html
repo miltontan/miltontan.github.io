@@ -51,11 +51,13 @@
         </li>
       {% endif %}
 
+      {% if author.scholar %}
         <li>
-          <a href="https://scholar.google.com/citations?user=Mdf7P7AAAAAJ"> 
+          <a href="https://scholar.google.com/citations?user={{ author.scholar }}" itemprop="sameAs"> 
             <i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar
           </a>
         </li>
+      {% endif %}
       
       {% if author.keybase %}
         <li>
