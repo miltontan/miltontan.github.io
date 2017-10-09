@@ -1,5 +1,5 @@
 ---
-permalink: cv/
+permalink: /cv/
 ---
 
-Test
+Click here for PDF version of CV.
