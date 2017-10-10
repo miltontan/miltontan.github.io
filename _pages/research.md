@@ -7,7 +7,7 @@ Since a young age, I have been inspired by the diversity in fishes and their hug
 
 ## Whole Genome Analysis of the Whale Shark
 ![image-center](/assets/images/whaleshark_sm.jpg){: .align-center}
-The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome. In ongoing research, we will use it to understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
+The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome. In ongoing research, we will use the genome to help us understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -15,6 +15,7 @@ The Whale Shark genome project is a collaboration between Emory University and G
 </ul>
 
 ## Evolution of Miniaturization in Cypriniformes
+![image-center](/assets/images/RC0222_crop.png){: .align-center}
 The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species. The Cypriniformes have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes.
 
 ### Relevant Publications
@@ -27,7 +28,7 @@ The order Cypriniformes is one of the most diverse groups of fishes, including o
 The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in twenty vertebrate species is a catfish! It has been hypothesized that the evolution of catfish defense mechanisms have helped catfishes diversify, but this has yet to be tested. Through a recently-funded fellowship from the National Science Foundation, I will study the relationship of the evolution of catfish defense mechanisms to their rates of diversification.
 
 ## Fieldwork!
-![image-left](/assets/images/12615368_10208632610277540_9206946955445239210_o.jpg){: .align-left}
+![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
 Part of what makes research so exciting is to be able to get out into the field to catch fishes! I have been lucky to have numerous field experiences, including in the United States, Suriname, and Thailand. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what they're genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. To the left, you can see my inspect a vial of larval fishes in the Salween River of Thailand, under the shadow of the mountains that form the eastern border on the Myanmar side.
 
 ### Relevant Publications
@@ -36,6 +37,7 @@ Part of what makes research so exciting is to be able to get out into the field 
 </ul>
 
 ## Adaptive Radiation in Fishes
+![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
 Adaptive radiation is a classic process used to explain the diversity of species. However, adaptive radiation has been difficult to detect in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
 
 ### Relevant Publications
@@ -45,7 +47,7 @@ Adaptive radiation is a classic process used to explain the diversity of species
 </ul>
 
 ## Taxonomy of Armored Suckermouth Catfishes
-![image-left](/assets/images/greedoi.png){: .align-left}
+![image-center](/assets/images/greedoi_lateral.jpg){: .align-center}
 Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. To that end, I have helped describe numerous new species of catfishes from South America. To the left is a new species that we described, <i>Peckoltia greedoi</i>.
 
 ### Relevant Publications
