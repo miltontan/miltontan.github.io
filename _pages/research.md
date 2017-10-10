@@ -3,12 +3,11 @@ layout: single
 permalink: /research/
 ---
 
-Since a young age, I have been inspired by the diversity in fishes and their huge variety in species and forms. There are roughly as many fish species as there are other vertebrates! In my research, I study the evolution of fishes to understand their relationships, their trait evolution, and how they diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees and reconstruct how genomes and traits evolved.
+Since a young age, I have been inspired by the diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, meaning that they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
 
 ## Whole Genome Analysis of the Whale Shark
-![full](/assets/images/whaleshark_sm.jpg)
-{: .full}
-The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome. In ongoing studies, we will use it to understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
+![image-center](/assets/images/whaleshark_sm.jpg){: .align-center}
+The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome. In ongoing research, we will use it to understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -16,7 +15,7 @@ The Whale Shark genome project is a collaboration between Emory University and G
 </ul>
 
 ## Evolution of Miniaturization in Cypriniformes
-The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species. The Cypriniformes have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</>. I have been particularly interested in understanding the evolution of miniaturization in these fishes.  
+The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species. The Cypriniformes have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -25,11 +24,11 @@ The order Cypriniformes is one of the most diverse groups of fishes, including o
 
 ## Evolution of Defenses in Catfishes
 ![image-left](/assets/images/catfishes.001_crop_sm.png){: .align-left}
-The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in twenty vertebrate species is a catfish! Through a recently-funded fellowship from the National Science Foundation, I will be using catfishes as a model system to study the evolution of defense mechanisms. 
+The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in twenty vertebrate species is a catfish! It has been hypothesized that the evolution of catfish defense mechanisms have helped catfishes diversify, but this has yet to be tested. Through a recently-funded fellowship from the National Science Foundation, I will study the relationship of the evolution of catfish defense mechanisms to their rates of diversification.
 
 ## Fieldwork!
 ![image-left](/assets/images/12615368_10208632610277540_9206946955445239210_o.jpg){: .align-left}
-Part of what makes research so exciting is to be able to get out into the field to catch fish! I have been lucky to have numerous field experiences in the United States, Suriname, and Thailand. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what they're genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. To the left, you can see my inspect a vial of larval fishes in the Salween River, under the shadow of the mountains that form the eastern border of Myanmar.
+Part of what makes research so exciting is to be able to get out into the field to catch fishes! I have been lucky to have numerous field experiences, including in the United States, Suriname, and Thailand. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what they're genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. To the left, you can see my inspect a vial of larval fishes in the Salween River of Thailand, under the shadow of the mountains that form the eastern border on the Myanmar side.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -37,7 +36,7 @@ Part of what makes research so exciting is to be able to get out into the field 
 </ul>
 
 ## Adaptive Radiation in Fishes
-Adaptive radiation is a classic process used to explain the diversity of species. If species evolved by adaptive radiation, then they should leave traces in the patterns of evolution of morphology, ecology, and diversification. However, these patterns have not been successfully recovered in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
+Adaptive radiation is a classic process used to explain the diversity of species. However, adaptive radiation has been difficult to detect in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
