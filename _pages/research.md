@@ -24,7 +24,6 @@ The order Cypriniformes is one of the most diverse groups of fishes, including o
 </ul>
 
 ## Adaptive Radiation in Fishes
-![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
 Adaptive radiation is a classic process used to explain the diversity of species. However, adaptive radiation has been difficult to detect in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
 
 ### Relevant Publications
