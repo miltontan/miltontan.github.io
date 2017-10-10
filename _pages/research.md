@@ -23,6 +23,16 @@ The order Cypriniformes is one of the most diverse groups of fishes, including o
 <li>2016. CC Stout, M Tan (co-first author), AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
 </ul>
 
+## Adaptive Radiation in Fishes
+![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
+Adaptive radiation is a classic process used to explain the diversity of species. However, adaptive radiation has been difficult to detect in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
+
+### Relevant Publications
+<ul style="list-style-type:disk">
+<li><i>In press</i>. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
+<li>2017. ED Burress, JM Holcomb, <b>M Tan</b>, JW Armbruster. Ecological diversification associated with the benthic-to-pelagic transition by North American minnows. Journal of Evolutionary Biology 30(3): 549-560. doi: 10.1111/jeb.13024</li>
+</ul>
+
 ## Evolution of Defenses in Catfishes
 ![image-left](/assets/images/catfishes.001_crop_sm.png){: .align-left}
 The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in twenty vertebrate species is a catfish! It has been hypothesized that the evolution of catfish defense mechanisms have helped catfishes diversify, but this has yet to be tested. Through a recently-funded fellowship from the National Science Foundation, I will study the relationship of the evolution of catfish defense mechanisms to their rates of diversification.
@@ -34,16 +44,6 @@ Part of what makes research so exciting is to be able to get out into the field 
 ### Relevant Publications
 <ul style="list-style-type:disk">
 <li>2014. CK Ray, <b>M Tan</b>, & JW Armbruster. First record of <i>Chrosomus erythrogaster</i> (Cypriniformes: Cyprinidae) in the Mobile Basin. Southeastern Naturalist 13(4): N33-N36. doi: 10.1656/058.013.0402</li>
-</ul>
-
-## Adaptive Radiation in Fishes
-![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
-Adaptive radiation is a classic process used to explain the diversity of species. However, adaptive radiation has been difficult to detect in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
-
-### Relevant Publications
-<ul style="list-style-type:disk">
-<li><i>In press</i>. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
-<li>2017. ED Burress, JM Holcomb, <b>M Tan</b>, JW Armbruster. Ecological diversification associated with the benthic-to-pelagic transition by North American minnows. Journal of Evolutionary Biology 30(3): 549-560. doi: 10.1111/jeb.13024</li>
 </ul>
 
 ## Taxonomy of Armored Suckermouth Catfishes
