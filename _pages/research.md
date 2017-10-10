@@ -3,7 +3,7 @@ layout: single
 permalink: /research/
 ---
 
-Since a young age, I have been inspired by the diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, meaning that they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
+I am inspired by the diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, so they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
 
 ## Whole Genome Analysis of the Whale Shark
 ![image-center](/assets/images/whaleshark_sm.jpg){: .align-center}
