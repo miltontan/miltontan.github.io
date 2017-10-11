@@ -16,7 +16,7 @@ The Whale Shark genome project is a collaboration between Emory University and G
 
 ## Evolution of Miniaturization in Cypriniformes
 ![image-center](/assets/images/RC0222_crop.png){: .align-center}
-The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species. The Cypriniformes have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes.
+The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The Cypriniformes also have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
