@@ -14,4 +14,4 @@ The Auburn University Museum is a treasure trove of fish diversity. Though the A
 ### On the Internet
 I actively communicate on social media, primarily through Twitter. This is a powerful platform to connect to thousands of people. My goal with Twitter is to help inspire curiosity in the natural world, and to help disseminate recent research findings, primarily in fish biology. I also maintain an occasionally updated <a href="https://mtanichthys.blogspot.com/">blog</a>, and update pages on Wikipedia, to further help disseminate recent research findings.
 
-<a class="twitter-timeline" href="https://twitter.com/mtanichthys?ref_src=twsrc%5Etfw">Tweets by mtanichthys</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="2000" href="https://twitter.com/mtanichthys?ref_src=twsrc%5Etfw">Tweets by mtanichthys</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
