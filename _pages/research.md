@@ -20,7 +20,7 @@ The order Cypriniformes is one of the most diverse groups of fishes, including o
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
-<li>2016. CC Stout, M Tan (co-first author), AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
+<li>2016. CC Stout, <b>M Tan (co-first author)</b>, AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
 </ul>
 
 ## Adaptive Radiation in Fishes
