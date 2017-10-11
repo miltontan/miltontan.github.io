@@ -22,7 +22,7 @@ permalink: /teaching/
 <ul>
 <li>2011–2016. Mentoring of undergraduate researchers, including a student who led an independent research project and was awarded an undergraduate research fellowship.</i>
 <li>2016–2016. Biology Tutor for Office of Diversity and Multicultural Affairs, Auburn University.</li>
-<li>2016. Instructor for R workshop at Joint Meeting of Ichthyologists and Herpetologists</i>
+<li>2016. Instructor for R workshop at Joint Meeting of Ichthyologists and Herpetologists</li>
 </ul>
 
 ## Teaching Philosophy
