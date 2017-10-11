@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /outreach/
 gallery:
   - image_path: /assets/images/museum_outreach1.png
   - image_path: /assets/images/museum_outreach2.jpg
