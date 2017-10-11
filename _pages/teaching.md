@@ -3,12 +3,33 @@ layout: single
 permalink: /teaching/
 ---
 &nbsp;
-### Teaching Philosophy
+## Teaching
+### Teaching Assistant
+<ul>
+<li>2016. <b>Comparative Anatomy</b> lab. Auburn University.</li>
+<li>2009–2015. <b>Human Anatomy & Physiology I</b> lab. Auburn University</li>
+</ul>
+
+### Lecture
+<ul>
+<li>Summer 2016. Guest lecturer for <b>Human Anatomy & Physiology II</b></li>
+<li>Fall 2015. Guest lecturer for <b>Evolution & Systematics</b> undergraduate class</li>
+<li>Fall 2012. Guest lecturer for <b>Evolution & Systematics</b> undergraduate class</li>
+<li>Spring 2011. Graduate student lecturer for <b>Developmental Molecular Biology</b> graduate class</li>
+</ul>
+
+### Outside the Classroom
+<ul>
+<li>2011–2016. Mentoring of undergraduate researchers, including a student who led an independent research project and was awarded an undergraduate research fellowship.</i>
+<li>2016–2016. Biology Tutor for Office of Diversity and Multicultural Affairs, Auburn University.</li>
+<li>2016. Instructor for R workshop at Joint Meeting of Ichthyologists and Herpetologists</i>
+</ul>
+
+## Teaching Philosophy
 
 I see my role as an instructor is to help students teach themselves. When students engage with the material, as encouraged by active learning methods, they are better able to demonstrate higher mastery of the material, and this has been shown to be true in the sciences. Most students do not become scientists, but scientific literacy is a powerful way to see and learn about the world. My goal is not only that students will learn the materials, but that they will be able to apply the strategy of observing the world using the critical scientific method to understand it, which they can carry on into the future as educated citizens.
 
-### Teaching Experience
-My teaching philosophy is informed by my multiple teaching experiences. Most of my teaching experience has been as a teaching assistant at Auburn University, where over 16 semesters I taught over 1,100 students, for Human Anatomy & Physiology and Comparative Anatomy. I have also taken opportunities to teach outside of the classroom, including as tutor in Biology at Auburn University’s Office of Diversity and Multicultural Affairs, and teaching computing skills as a workshop instructor for the R workshop for beginners at the Joint Meeting of Ichthyologists and Herpetologists 2016. I have also been a guest lecturer for Anatomy & Physiology, Evolution & Systematics, and Vertebrate Developmental Biology. In addition, I also have educated children and adults of broad educational backgrounds through outreach events held at Auburn University’s Museum of Natural History, where I have displayed my passion for sharing my love of learning about the natural world with others. At these events, I used collections to help inspire curiosity and teach about about fish biology and natural history. Through these diverse teaching experiences, I have refined my philosophy of teaching as a guide to knowledge.
+My teaching philosophy is informed by my multiple teaching experiences, in the lab (cumulative over 1,100 students), in lecture, as a tutor, and in a workshop. In addition, I also have educated children and adults of broad educational backgrounds through outreach events held at Auburn University’s Museum of Natural History, where I have displayed my passion for sharing my love of learning about the natural world with others. At these events, I used collections to help inspire curiosity and teach about about fish biology and natural history. Through these diverse teaching experiences, I have refined my philosophy of teaching as a guide to knowledge.
 
 To accomplish my teaching goals, I combine lecture and active learning in my teaching. Lectures are an important tool to lay the foundation. Critically thinking about scientific ideas requires the basic building blocks in terminology and facts, and lecture is a natural format to instill these concepts. To care about material requires knowing something about it. In labs and workshops, lectures are a briefing that provides students with the knowledge, tools, and a road map for the exercises they are about to do. Like language, fluency in thinking about science requires the basic building blocks; words can be used to string sentences, and facts can be used to infer knowledge. Hence, I believe that lecture can help to provide a foundation for students to engage with the material. 
 
@@ -16,8 +37,5 @@ Rather than giving students all the information, I encourage them figure it out 
 
 I am also a firm believer that assessing students often is important to help guide students towards the learning outcomes. While some students are intrinsically passionate and engage with the material, many students are motivated by assessments that provide clear feedback both to motivate students and to guide them in how to learn. These assessments can be formal graded quizzes and tests, but can also be informal discussion and questioning. I believe this is one of the better techniques to get students to actively engage.
 
-### Training in Pedagogy
-Not only have I had diverse experiences in instruction, I strive to improve my teaching. This has included receiving a certification through the Auburn University Preparing Future Faculty program, which included multiple workshops and sessions on pedagogy, including the application of active learning, and diversity awareness. Inclusion of technology in instruction can be useful, and part of the program included learning about various teaching technologies, such as clickers, which can be useful to engage students in a larger classroom setting.
-
-### Mentoring Experience
+## Mentoring Experience
 I have had the privilege of supervising many talented people when working with multiple undergraduate volunteers and researchers. I have taught undergraduates how to collect data and work with specimens, and I have learned to effectively communicate with my mentees to clarify expectations and resolve issues. While not everyone is looking to do a career in science, engaging in research is one of the most direct methods to learn critical thinking skills and the scientific method. I have also developed potential in people. One of my undergraduate mentees, was interested in furthering her research experience for a career in science. I helped mentor her on an independent research project that she presented at multiple conferences, both internally at Auburn University and externally at a regional professional meeting. With that experience, she successfully applied for an undergraduate research fellowship through Auburn University and a summer research internship through the Tennessee Aquarium Conservation Institute, and started Fall 2017 as a Master’s Student at Central Michigan University.
