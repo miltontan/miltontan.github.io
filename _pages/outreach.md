@@ -2,7 +2,7 @@
 permalink: /outreach/
 gallery:
   - image_path: /assets/images/museum_outreach1.png
-  - image_path: /assets/images/museum_outreach2.jpg
+  - image_path: /assets/images/museum_outreach2_crop.jpg
 ---
 
 I have a passion for sharing my love of learning about the natural world with others. It is also important for the general public to understand science, to see its importance and relevance to their lives, and to help protect natural biodiversity into the future. 
