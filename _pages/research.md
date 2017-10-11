@@ -46,8 +46,8 @@ Part of what makes research so exciting is to be able to get out into the field 
 </ul>
 
 ## Taxonomy of Armored Suckermouth Catfishes
-![image-center](/assets/images/greedoi_lateral.jpg){: .align-center}
-Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. To that end, I have helped describe numerous new species of catfishes from South America. To the left is a new species that we described, <i>Peckoltia greedoi</i>.
+![image-center](/assets/images/greedoi_lateral.png){: .align-center}
+Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. To that end, I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>.
 
 ### Relevant Publications
 
