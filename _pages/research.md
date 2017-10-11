@@ -16,7 +16,7 @@ The Whale Shark genome project is a collaboration between Emory University and G
 
 ## Evolution of Miniaturization in Cypriniformes
 ![image-center](/assets/images/RC0222_crop.png){: .align-center}
-The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The Cypriniformes also have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes.
+The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The Cypriniformes also have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes. (Photo kindly provided by Rupert Collins).
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -38,7 +38,7 @@ The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in
 
 ## Fieldwork!
 ![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
-Part of what makes research so exciting is to be able to get out into the field to catch fishes! I have been lucky to have numerous field experiences, including in the United States, Suriname, and Thailand. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what they're genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. In the photo, I am inspecting a vial of larval fishes I had just collected in the Salween River of Thailand, under the shadow of the mountains that form the border on the Myanmar side.
+Part of what makes research so exciting is to be able to get out into the field to catch fishes! I have been lucky to have numerous field experiences, including in the United States, Suriname, and Thailand. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what they're genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. In the photo, I am inspecting a vial of larval fishes I had just collected in the Salween River of Thailand, under the shadow of the mountains that form the border on the Myanmar side. (Photo by Zach Randall).
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -47,7 +47,7 @@ Part of what makes research so exciting is to be able to get out into the field 
 
 ## Taxonomy of Armored Suckermouth Catfishes
 ![image-center](/assets/images/greedoi_lateral.png){: .align-center}
-Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. To that end, I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>.
+Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. To that end, I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>, photo by Jonathan Armbruster.
 
 ### Relevant Publications
 
