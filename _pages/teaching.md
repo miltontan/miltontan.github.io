@@ -2,7 +2,6 @@
 layout: single
 permalink: /teaching/
 ---
-&nbsp;
 ## Teaching
 ### Teaching Assistant
 <ul>
