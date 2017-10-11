@@ -2,7 +2,7 @@
 layout: single
 permalink: /teaching/
 ---
-.
+
 ### Teaching Philosophy
 
 I see my role as an instructor is to help students teach themselves. When students engage with the material, as encouraged by active learning methods, they are better able to demonstrate higher mastery of the material, and this has been shown to be true in the sciences. Most students do not become scientists, but scientific literacy is a powerful way to see and learn about the world. My goal is not only that students will learn the materials, but that they will be able to apply the strategy of observing the world using the critical scientific method to understand it, which they can carry on into the future as educated citizens.
