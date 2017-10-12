@@ -2,7 +2,8 @@
 layout: single
 permalink: /teaching/
 ---
-## Teaching
+&nbsp;
+## Teaching Experience
 ### Teaching Assistant
 <ul>
 <li>2016. <b>Comparative Anatomy</b> lab. Auburn University.</li>
