@@ -38,3 +38,18 @@ Minors in Marine Studies, Business Administration.</li>
 
 <li>2011. Neotropical Ichthyological Association <b>Best Student Poster Award winner</b> at Joint Meeting of Ichthyologists and Herpetologists.</li>
 </ul>
+
+### Invited Presentations
+
+#### Symposia
+<ul style="list-style-type:disk">
+<li>2017. Ernst Mayr Symposium, Society of Systematic Biologists, Evolution 2017, Portland, OR.</li>
+<li>2015. All Cypriniformes Species Inventory Symposium, American Society of Ichthyologists and Herpetologists, Joint Meeting of Ichthyologists and Herpetologists, Reno, NV. </li>
+</ul>
+
+#### Departmental Seminars
+<ul style="list-style-type:disk">
+<li>2017. Stephen F. Austin State University.</li>
+<li>2017. Florida Museum of Natural History, University of Florida.</li>
+<li>2017. Emory University, Population Biology, Ecology & Evolution.</li>
+</ul>
