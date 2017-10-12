@@ -43,12 +43,12 @@ Minors in Marine Studies, Business Administration.</li>
 
 <b>Symposia</b>
 <ul style="list-style-type:disk">
-<li>2017. Ernst Mayr Symposium, Society of Systematic Biologists, Evolution 2017, Portland, OR.</li>
+<li>2017. <b>Ernst Mayr Symposium, Society of Systematic Biologists</b>, Evolution 2017, Portland, OR.</li>
 <li>2015. All Cypriniformes Species Inventory Symposium, American Society of Ichthyologists and Herpetologists, Joint Meeting of Ichthyologists and Herpetologists, Reno, NV. </li>
 </ul>
 
 <b>Departmental Seminars</b>
 <ul style="list-style-type:disk">
-<li>2017. Florida Museum of Natural History, University of Florida.</li>
-<li>2017. Emory University, Population Biology, Ecology & Evolution.</li>
+<li>2017. <b>Florida Museum of Natural History</b>, University of Florida.</li>
+<li>2017. <b>Emory University</b>, Population Biology, Ecology & Evolution.</li>
 </ul>
