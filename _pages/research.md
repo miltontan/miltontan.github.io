@@ -28,7 +28,8 @@ Adaptive radiation is a classic process used to explain the diversity of species
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
-<li><i>In press</i>. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
+<li>2018. ED Burress, L Piálek, J Casciotta, A Almirón, <b>M Tan</b>, JW Armbruster, O Říčan. Island- and lake-like parallel adaptive radiations replicated in rivers. Proceedings of the Royal Society B 285: 20171762. doi: 10.1098/rspb.2017.1762</li>
+<li>2017. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
 <li>2017. ED Burress, JM Holcomb, <b>M Tan</b>, JW Armbruster. Ecological diversification associated with the benthic-to-pelagic transition by North American minnows. Journal of Evolutionary Biology 30(3): 549-560. doi: 10.1111/jeb.13024</li>
 </ul>
 
