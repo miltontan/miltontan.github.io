@@ -10,7 +10,7 @@ permalink: /cv/
 
 ### Appointments
 <ul style="list-style-type:disk">
-<li>2018 – present. National Science Foundation Postdoctoral Fellow, George Washington University Visiting Scholar and Smithsonian Fellow. Sponsored by <a href="https://scholar.google.es/citations?user=T5NDlsEAAAAJ&hl=en">Guillermo Orti</a>.
+<li>2018 – present. National Science Foundation Postdoctoral Fellow, George Washington University Visiting Scholar and Smithsonian Fellow. Sponsored by <a href="https://scholar.google.es/citations?user=T5NDlsEAAAAJ&hl=en">Guillermo Orti</a>.</li>
 <li>2016 – 2017. <b>Emory University</b>, Postdoctoral Fellow, Whale Shark Genomics. Supervised by <a href="https://read-lab-confederation.github.io/">Timothy D. Read</a> (Emory University) and <a href="http://alistairdove.com/">Alistair D. M. Dove</a> (Georgia Aquarium).</li>
 </ul>
 
