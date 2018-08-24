@@ -12,7 +12,7 @@ permalink: /cv/
 <ul style="list-style-type:disk">
 <li>Aug 2018 – present. Assistant Research Scientist, Illinois Natural History Survey, University of Illinois at Urbana-Champaign.</li> 
 <li>Jan 2018 – Aug 2018. National Science Foundation Postdoctoral Fellow, George Washington University Visiting Scholar and Smithsonian Fellow. Sponsored by <a href="https://scholar.google.es/citations?user=T5NDlsEAAAAJ&hl=en">Guillermo Ortí</a>.</li>
-<li>2016 – 2017. <b>Emory University</b>, Postdoctoral Fellow, Whale Shark Genomics. Supervised by <a href="https://read-lab-confederation.github.io/">Timothy D. Read</a> (Emory University) and <a href="http://alistairdove.com/">Alistair D. M. Dove</a> (Georgia Aquarium).</li>
+<li>2016 – 2017. Emory University, Postdoctoral Fellow, Whale Shark Genomics. Supervised by <a href="https://read-lab-confederation.github.io/">Timothy D. Read</a> (Emory University) and <a href="http://alistairdove.com/">Alistair D. M. Dove</a> (Georgia Aquarium).</li>
 </ul>
 
 ### Education
