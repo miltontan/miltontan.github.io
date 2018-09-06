@@ -34,6 +34,10 @@ This page compiles helpful links on a variety of topics related to being a scien
 <li><a href="https://github.com/anilchalisey/parseR/wiki/Setting-up-WSL-Bash-on-Windows-10">Setting up WSL Bash on Windows 10</a></li>
 <li><a href="https://lcolladotor.github.io/2012/08/23/setting-up-your-computer-for/#.W5Gta5MzphE">Setting up your computer for bioinformatics/biostatistics and a compedium of resources</a></li>
 </ul>
+### Phylogenetics
+<ul style="list-style-type:disk">
+<li><a href="https://gist.github.com/brantfaircloth/895282">Specifying substitution models in mrbayes</a></li>
+</ul>
 ### R, particularly comparative methods
 <ul style="list-style-type:disk">
 <li><a href="https://cran.r-project.org/web/views/Phylogenetics.html">Phylogenetics, Especially Comparative Methods available in R</a></li>
