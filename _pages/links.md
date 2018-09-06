@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /teaching/
+permalink: /links/
 ---
 &nbsp;
 
