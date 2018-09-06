@@ -36,5 +36,5 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### R, particularly comparative methods
 <ul style="list-style-type:disk">
 <li><a href="https://cran.r-project.org/web/views/Phylogenetics.html">Phylogenetics, Especially Comparative Methods available in R</a></li>
-<li><a href="blog.phytools.org/">phytools blog</a></li>
+<li><a href="http://blog.phytools.org/">phytools blog</a></li>
 </ul>
