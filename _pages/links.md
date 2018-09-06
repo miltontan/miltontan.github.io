@@ -32,6 +32,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 <ul style="list-style-type:disk">
 <li><a href="http://www.benjack.io/2016/01/02/el-capitan-biocomputing.html">Setting up El Capitan (or Sierra) for biocomputing</a></li>
 <li><a href="https://github.com/anilchalisey/parseR/wiki/Setting-up-WSL-Bash-on-Windows-10">Setting up WSL Bash on Windows 10</a></li>
+<li><a href="https://lcolladotor.github.io/2012/08/23/setting-up-your-computer-for/#.W5Gta5MzphE">Setting up your computer for bioinformatics/biostatistics and a compedium of resources</a></li>
 </ul>
 ### R, particularly comparative methods
 <ul style="list-style-type:disk">
