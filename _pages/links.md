@@ -64,7 +64,12 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730">Ten simple rules for writing a response to reviewers by William Noble</a></li>
 </ul>
 
-## Bioinformatics
+## Bioinformatics and Analysis
+### Statistics
+<ul style="list-style-type:disk">
+  <li><a href="http://www.biostathandbook.com/">Handbook of Biological Statistics by John McDonald</a></li>
+  <li><a href="https://www.pathwaycommons.org/guide/primers/statistics/">Pathway Guide to Statistics for Gene Set Enrichment Analysis</a></li>
+</ul>
 ### Setting up a new machine and useful software
 <ul style="list-style-type:disk">
   <li><a href="http://www.benjack.io/2016/01/02/el-capitan-biocomputing.html">Setting up El Capitan (or Sierra) for biocomputing by Benjamin Jack</a></li>
