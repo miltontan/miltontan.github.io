@@ -70,7 +70,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="http://www.benjack.io/2016/01/02/el-capitan-biocomputing.html">Setting up El Capitan (or Sierra) for biocomputing by Benjamin Jack</a></li>
   <li><a href="https://github.com/anilchalisey/parseR/wiki/Setting-up-WSL-Bash-on-Windows-10">Setting up WSL Bash on Windows 10 by Anil Chalisey</a></li>
   <li><a href="https://lcolladotor.github.io/2012/08/23/setting-up-your-computer-for/#.W5Gta5MzphE">Setting up your computer for bioinformatics/biostatistics and a compedium of resources by Leonardo Collado-Torres</a></li>
-  <li><a href="https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/">Install and Use GNU Command Line Tools on macOS/OS X by Hong Xu (I usually find just a few of these are enough)</a></li>
+  <li><a href="https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/">Install and Use GNU Command Line Tools on macOS/OS X by Hong Xu</a> (I usually find just a few of these are enough)</li>
   <li><a href="http://hgdownload.cse.ucsc.edu/admin/exe/">UCSC Genome Browser and Blat application binaries</a></li>
 </ul>
 ### Basics
