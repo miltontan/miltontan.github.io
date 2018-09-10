@@ -13,6 +13,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
 </ul>
+
 ### Conferences
 <ul style="list-style-type:disk">
   <li><a href="http://www.southernfriedscience.com/10-tips-for-grad-students-to-make-the-most-of-a-scientific-conference/">10 Tips for grad students to make the most of a scientific conference by David Shiffman</a></li>
@@ -70,6 +71,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="http://www.biostathandbook.com/">Handbook of Biological Statistics by John McDonald</a></li>
   <li><a href="https://www.pathwaycommons.org/guide/primers/statistics/">Pathway Guide to Statistics for Gene Set Enrichment Analysis</a></li>
 </ul>
+
 ### Setting up a new machine and useful software
 <ul style="list-style-type:disk">
   <li><a href="http://www.benjack.io/2016/01/02/el-capitan-biocomputing.html">Setting up El Capitan (or Sierra) for biocomputing by Benjamin Jack</a></li>
@@ -78,19 +80,23 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/">Install and Use GNU Command Line Tools on macOS/OS X by Hong Xu</a> (I usually find just a few of these are enough)</li>
   <li><a href="http://hgdownload.cse.ucsc.edu/admin/exe/">UCSC Genome Browser and Blat application binaries</a></li>
 </ul>
+
 ### Basics
 <ul style="list-style-type:disk">
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
 </ul>
+
 ### Phylogenetics
 <ul style="list-style-type:disk">
   <li><a href="https://gist.github.com/brantfaircloth/895282">Specifying substitution models in mrbayes by Brant Faircloth</a></li>
 </ul>
+
 ### R, particularly comparative methods
 <ul style="list-style-type:disk">
 <li><a href="https://cran.r-project.org/web/views/Phylogenetics.html">Phylogenetics, Especially Comparative Methods available in R by Brian O'Meara</a></li>
 <li><a href="http://blog.phytools.org/">phytools blog by Liam Revell</a></li>
 </ul>
+
 ### Genomics
 <ul style="list-style-type:disk">
   <li><a href="https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md">How to predict genes using a two-pass (iterative) MAKER2 workflow by Sujai Kumar</a></li>
