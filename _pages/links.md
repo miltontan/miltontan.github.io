@@ -34,6 +34,11 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/">Jabberwocky – A list of publicly available grants</a></li>
 </ul>
 
+### Scientific Writing
+<ul style="list-style-type:disk">
+  <li><a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to construct a <i>Nature</i> summary paragraph</a></li> (or any abstract)
+</ul>
+
 ## Bioinformatics
 ### Setting up a new machine and useful software
 <ul style="list-style-type:disk">
@@ -41,6 +46,10 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://github.com/anilchalisey/parseR/wiki/Setting-up-WSL-Bash-on-Windows-10">Setting up WSL Bash on Windows 10</a></li>
   <li><a href="https://lcolladotor.github.io/2012/08/23/setting-up-your-computer-for/#.W5Gta5MzphE">Setting up your computer for bioinformatics/biostatistics and a compedium of resources</a></li>
   <li><a href="http://hgdownload.cse.ucsc.edu/admin/exe/">UCSC Genome Browser and Blat application binaries</a></li>
+</ul>
+### Basics
+<ul style="list-style-type:disk">
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program</a></li>
 </ul>
 ### Phylogenetics
 <ul style="list-style-type:disk">
@@ -53,5 +62,5 @@ This page compiles helpful links on a variety of topics related to being a scien
 </ul>
 ### Genomics
 <ul style="list-style-type:disk">
-  <li><a href="https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md">How to predict genes using a two-pass (iterative) MAKER2 workflow by Sujai Kumar</a></li>
+  <li><a href="https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md">How to predict genes using a two-pass (iterative) MAKER2 workflow</a></li>
 </ul>  
