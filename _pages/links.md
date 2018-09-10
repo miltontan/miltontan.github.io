@@ -16,14 +16,21 @@ This page compiles helpful links on a variety of topics related to being a scien
 <li><a href="http://www.southernfriedscience.com/10-tips-for-grad-students-to-make-the-most-of-a-scientific-conference/">10 Tips for grad students to make the most of a scientific conference</a></li>
 </ul>
 
-## Writing
-### General
+## Writing and Presenting
+### Telling the Story
+<ul style="list-style-type:disk">
+<li><a href="https://ecoevoevoeco.blogspot.com/2014/10/how-to-writepresent-science-baby.html">How to write/present science: BABY-WEREWOLF-SILVER BULLET</a></li>
+<li><a href="https://youtu.be/ERB7ITvabA4">Randy Olson "The And, But, Therefore of Storytelling" TEDMED 2013 (YouTube)</a></li>
+</ul>
+
+### General Writing
 <ul style="list-style-type:disk">
 <li><a href="https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/">Five common writing mistakes new scientists make</a></li>
 </ul>
 
 ### Grant-writing
 <ul style="list-style-type:disk">
+<li><a href="https://www.ogrants.org/">Open Grants</a></li>
 <li><a href="https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/">Jabberwocky – A list of publicly available grants</a></li>
 </ul>
 
