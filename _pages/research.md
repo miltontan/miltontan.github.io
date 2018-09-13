@@ -11,7 +11,7 @@ The Whale Shark genome project is a collaboration between Emory University and G
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
-<li>2017. TD Read, RA Petit III, SJ Joseph, MT Alam, MR Weil, Maida Ahmad, R Bhimani, JS Vuong, CP Haase, DH Webb, <b>M Tan (corresponding author)</b>, ADM Dove. Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: <i>Rhincodon typus</i> Smith 1828. BMC Genomics 18: 532. doi: 10.1186/s12864-017-3926-9</li>
+  <li>2017. TD Read, RA Petit III, SJ Joseph, MT Alam, MR Weil, Maida Ahmad, R Bhimani, JS Vuong, CP Haase, DH Webb, <b>M Tan (corresponding author)</b>, ADM Dove. Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: <i>Rhincodon typus</i> Smith 1828. BMC Genomics 18: 532. doi: 10.1186/s12864-017-3926-9</li>
 </ul>
 
 ## Evolution of Miniaturization in Cypriniformes
@@ -20,7 +20,7 @@ The order Cypriniformes is one of the most diverse groups of fishes, including o
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
-<li>2016. CC Stout, <b>M Tan (co-first author)</b>, AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
+  <li>2016. CC Stout, <b>M Tan (co-first author)</b>, AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
 </ul>
 
 ## Adaptive Radiation in Fishes
@@ -28,9 +28,9 @@ Adaptive radiation is a classic process used to explain the diversity of species
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
-<li>2018. ED Burress, L Piálek, J Casciotta, A Almirón, <b>M Tan</b>, JW Armbruster, O Říčan. Island- and lake-like parallel adaptive radiations replicated in rivers. Proceedings of the Royal Society B 285: 20171762. doi: 10.1098/rspb.2017.1762</li>
-<li>2017. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
-<li>2017. ED Burress, JM Holcomb, <b>M Tan</b>, JW Armbruster. Ecological diversification associated with the benthic-to-pelagic transition by North American minnows. Journal of Evolutionary Biology 30(3): 549-560. doi: 10.1111/jeb.13024</li>
+  <li>2018. ED Burress, L Piálek, J Casciotta, A Almirón, <b>M Tan</b>, JW Armbruster, O Říčan. Island- and lake-like parallel adaptive radiations replicated in rivers. Proceedings of the Royal Society B 285: 20171762. doi: 10.1098/rspb.2017.1762</li>
+  <li>2017. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
+  <li>2017. ED Burress, JM Holcomb, <b>M Tan</b>, JW Armbruster. Ecological diversification associated with the benthic-to-pelagic transition by North American minnows. Journal of Evolutionary Biology 30(3): 549-560. doi: 10.1111/jeb.13024</li>
 </ul>
 
 ## Evolution of Defenses in Catfishes
@@ -46,18 +46,16 @@ Part of what makes research so exciting is to be able to get out into the field 
 <li>2014. CK Ray, <b>M Tan</b>, & JW Armbruster. First record of <i>Chrosomus erythrogaster</i> (Cypriniformes: Cyprinidae) in the Mobile Basin. Southeastern Naturalist 13(4): N33-N36. doi: 10.1656/058.013.0402</li>
 </ul>
 
-## Taxonomy of Armored Suckermouth Catfishes
+## Taxonomy of Fishes
 ![image-center](/assets/images/greedoi_lateral.png){: .align-center}
-Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. To that end, I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>, photo by Jonathan Armbruster.
+Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. Furthermore, the classification of these species provides the foundation for the understanding of the diversity of species. I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>, photo by Jonathan Armbruster. I have also contributed to the classification of members of the Order Cypriniformes.
 
 ### Relevant Publications
 
 <ul style="list-style-type:disk">
-<li>2016. <b>M Tan</b>, LS de Souza, JW Armbruster. A new species of <i>Panaqolus</i> (Siluriformes: Loricariidae) from the rio Branco. Neotropical Ichthyology 14(2): e150033. doi: 10.1590/1982-0224-20150033</li>
-
-<li>2016. <b>M Tan</b>, JW Armbruster. Two new species of spotted <i>Hypancistrus</i> from the Rio Negro Drainage (Loricariidae, Hypostominae). ZooKeys 552: 123-135. doi: 10.3897/zookeys.552.5956</li>
-
-<li>2015. JW Armbruster, DC Werneke, <b>M Tan</b>. Three new species of saddled loricariid catfishes, and a review of <i>Hemiancistrus</i>, <i>Peckoltia</i>, and allied genera (Siluriformes). ZooKeys 480: 97-123. doi: 10.3897/zookeys.480.6540</li>
-
-<li>2012. <b>M Tan</b>, JW Armbruster. <i>Cordylancistrus santarosensis</i> (Siluriformes: Loricariidae), a new species with unique snout deplatation from the Río Santa Rosa, Ecuador. Zootaxa 3243:52-58.</li>
+  <li>2018. <b>M Tan</b>, JW Armbruster. Phylogenetic classification of extant genera of fishes of the order Cypriniformes (Teleostei: Ostariophysi). Zootaxa 4476(1): 006–039. doi: 10.11646/zootaxa.4476.1.4</li>
+  <li>2016. <b>M Tan</b>, LS de Souza, JW Armbruster. A new species of <i>Panaqolus</i> (Siluriformes: Loricariidae) from the rio Branco. Neotropical Ichthyology 14(2): e150033. doi: 10.1590/1982-0224-20150033</li>
+  <li>2016. <b>M Tan</b>, JW Armbruster. Two new species of spotted <i>Hypancistrus</i> from the Rio Negro Drainage (Loricariidae, Hypostominae). ZooKeys 552: 123-135. doi: 10.3897/zookeys.552.5956</li>
+  <li>2015. JW Armbruster, DC Werneke, <b>M Tan</b>. Three new species of saddled loricariid catfishes, and a review of <i>Hemiancistrus</i>, <i>Peckoltia</i>, and allied genera (Siluriformes). ZooKeys 480: 97-123. doi: 10.3897/zookeys.480.6540</li>
+  <li>2012. <b>M Tan</b>, JW Armbruster. <i>Cordylancistrus santarosensis</i> (Siluriformes: Loricariidae), a new species with unique snout deplatation from the Río Santa Rosa, Ecuador. Zootaxa 3243:52-58.</li>
 </ul>
