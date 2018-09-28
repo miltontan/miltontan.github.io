@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /links/
+toc: true
 ---
 &nbsp;
 
