@@ -83,6 +83,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ### Basics
 <ul style="list-style-type:disk">
+  <li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/index.html">UNIX/LINUX Tutorial for Beginners</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
 </ul>
 
@@ -100,4 +101,10 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### Genomics
 <ul style="list-style-type:disk">
   <li><a href="https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md">How to predict genes using a two-pass (iterative) MAKER2 workflow by Sujai Kumar</a></li>
+</ul>  
+
+## Info for Faculty
+<ul style="list-style-type:disk">
+  <li><a href="https://docs.google.com/spreadsheets/d/1pSPakvhJ7bmIA2ruakZUwp7NYKsoMiQyG6Nj0GJ41lk/">Readings on Diversity in Science</a></li>
+  <li><a href="https://dynamicecology.wordpress.com/2018/09/26/how-i-write-tenure-and-promotion-letters/">How I write tenure and promotion letters by Jeremy Fox</a></li>
 </ul>  
