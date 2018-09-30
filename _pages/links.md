@@ -17,6 +17,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### How to be a Grad Student
 <ul style="list-style-type:disk">
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
+  <li><a href="https://jdkincaid.wordpress.com/">First Gen Grads blog by John Kincaid</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
 </ul>
