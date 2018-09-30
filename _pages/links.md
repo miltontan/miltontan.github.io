@@ -112,6 +112,11 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md">How to predict genes using a two-pass (iterative) MAKER2 workflow by Sujai Kumar</a></li>
 </ul>  
 
+## Teaching
+<ul style="list-style-type:disk">
+  <li><a href="https://lse.ascb.org/">Evidence-Based Teaching Guides (American Society of Cell Biology)</a></li>
+</ul>
+
 ## Info for Faculty
 <ul style="list-style-type:disk">
   <li><a href="https://dynamicecology.wordpress.com/2018/09/26/how-i-write-tenure-and-promotion-letters/">How I write tenure and promotion letters by Jeremy Fox (Dynamic Ecology)</a></li>
