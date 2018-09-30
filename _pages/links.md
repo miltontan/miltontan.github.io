@@ -7,8 +7,14 @@ toc: true
 
 This page compiles helpful links on a variety of topics related to being a scientist in my field or related fields. It is designed to be a go-to reference for myself and students for resources.
 
+## General
+<ul style="list-style-type:disk">
+  <li><a href="https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know">Things a Scientist is Supposed to Know by Philipp Bayer</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1pSPakvhJ7bmIA2ruakZUwp7NYKsoMiQyG6Nj0GJ41lk/">Readings on Diversity in Science</a></li>
+</ul>
+
 ## Navigating Graduate School
-### General
+### How to be a Grad Student
 <ul style="list-style-type:disk">
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
@@ -64,6 +70,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020110">Ten Simple Rules for Reviewers by Philip Bourne & Alon Korngreen</a></li>
   <li><a href="https://ecoevoevoeco.blogspot.com/2014/11/how-to-be-reviewereditor.html">How to be a reviewer/editor by Andrew Hendry (Eco-Evo Evo-Eco)</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730">Ten simple rules for writing a response to reviewers by William Noble</a></li>
+  <li><a href="https://simonleather.wordpress.com/2018/09/27/how-not-to-respond-to-reviewers-even-if-it-is-reviewer-3/">How not to respond to reviewers – even if it is Reviewer #3 by Simon Leather</a></li>
 </ul>
 
 ## Bioinformatics and Analysis
@@ -106,6 +113,5 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ## Info for Faculty
 <ul style="list-style-type:disk">
-  <li><a href="https://docs.google.com/spreadsheets/d/1pSPakvhJ7bmIA2ruakZUwp7NYKsoMiQyG6Nj0GJ41lk/">Readings on Diversity in Science</a></li>
-  <li><a href="https://dynamicecology.wordpress.com/2018/09/26/how-i-write-tenure-and-promotion-letters/">How I write tenure and promotion letters by Jeremy Fox</a></li>
+  <li><a href="https://dynamicecology.wordpress.com/2018/09/26/how-i-write-tenure-and-promotion-letters/">How I write tenure and promotion letters by Jeremy Fox (Dynamic Ecology)</a></li>
 </ul>  
