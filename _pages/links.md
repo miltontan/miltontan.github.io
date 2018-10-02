@@ -13,13 +13,13 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://docs.google.com/spreadsheets/d/1pSPakvhJ7bmIA2ruakZUwp7NYKsoMiQyG6Nj0GJ41lk/">Readings on Diversity in Science</a></li>
 </ul>
 
-## Navigating Graduate School
-### How to be a Grad Student
+## Being a Student
 <ul style="list-style-type:disk">
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
   <li><a href="https://jdkincaid.wordpress.com/">First Gen Grads blog by John Kincaid</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
+  <li><a href="https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/">How to read and understand a scientific paper: a guide for non-scientists by Jennifer Raff</a></li>
 </ul>
 
 ### Conferences
