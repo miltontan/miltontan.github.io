@@ -11,6 +11,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 <ul style="list-style-type:disk">
   <li><a href="https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know">Things a Scientist is Supposed to Know by Philipp Bayer</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1pSPakvhJ7bmIA2ruakZUwp7NYKsoMiQyG6Nj0GJ41lk/">Readings on Diversity in Science</a></li>
+  <li><a href="http://science.sciencemag.org/content/142/3590/339.1">Chaos in the Brickyard by Bernard Forscher (Science), a classic essay on the science</a><li>
 </ul>
 
 ## Being a Student
@@ -20,6 +21,12 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
   <li><a href="https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/">How to read and understand a scientific paper: a guide for non-scientists by Jennifer Raff</a></li>
+</ul>
+
+### Impostor Syndrome
+<ul style="list-style-type:disk">
+  <li><a href="http://jcs.biologists.org/content/121/11/1771">The importance of stupidity in scientific research by Martin Schwartz (Journal of Cell Science)</a></li>
+  <li><a href="https://www.nature.com/naturejobs/science/articles/10.1038/nj7245-468a">"Unmasking the Impostor" by Karen Kaplan (Nature)</a></li>
 </ul>
 
 ### Conferences
