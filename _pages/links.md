@@ -20,7 +20,12 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://jdkincaid.wordpress.com/">First Gen Grads blog by John Kincaid</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
-  <li><a href="https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/">How to read and understand a scientific paper: a guide for non-scientists by Jennifer Raff</a></li>
+
+### How to read a scientific paper
+<ul style="list-style-type:disk">
+  <li><a href="https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper">Infographic: How to read a scientific paper by Natalia Rodriguez</a></li>
+  <li><a href="http://aspb.org/wp-content/uploads/2016/04/HowtoReadScientificPaper.pdf">How to read a scientific paper by the American Society of Plant Biologists</a></li>
+  <li><a href="http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/">How to read and understand a scientific paper: a guide for non-scientists by Jennifer Raff</a></li>
 </ul>
 
 ### Impostor Syndrome
