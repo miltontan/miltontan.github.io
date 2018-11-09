@@ -11,7 +11,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 <ul style="list-style-type:disk">
   <li><a href="https://github.com/philippbayer/Things-a-scientist-is-suppposed-to-know">Things a Scientist is Supposed to Know by Philipp Bayer</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1pSPakvhJ7bmIA2ruakZUwp7NYKsoMiQyG6Nj0GJ41lk/">Readings on Diversity in Science</a></li>
-  <li><a href="http://science.sciencemag.org/content/142/3590/339.1">Chaos in the Brickyard by Bernard Forscher (Science), a classic essay on the science</a></li>
+  <li><a href="http://science.sciencemag.org/content/142/3590/339.1">Chaos in the Brickyard by Bernard Forscher (Science), a classic essay on the process of science</a></li>
 </ul>
 
 ## Being a Student
