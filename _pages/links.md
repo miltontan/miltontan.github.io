@@ -134,5 +134,6 @@ This page compiles helpful links on a variety of topics related to being a scien
 ## Info for Faculty
 <ul style="list-style-type:disk">
   <li><a href="https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html">How to write a letter of recommendation by Michael Ernst</a></li>
+  <li><a href="http://expd.uw.edu/scholarships/faculty-staff/letters-of-recommendation/tips-for-writing-strong-letters-of-recommendation/">Tips for writing strong letters of recommendation</a></li>
   <li><a href="https://dynamicecology.wordpress.com/2018/09/26/how-i-write-tenure-and-promotion-letters/">How I write tenure and promotion letters by Jeremy Fox (Dynamic Ecology)</a></li>
 </ul>  
