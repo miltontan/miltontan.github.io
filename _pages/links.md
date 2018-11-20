@@ -131,6 +131,11 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://lse.ascb.org/">Evidence-Based Teaching Guides (American Society of Cell Biology)</a></li>
 </ul>
 
+## Interviewing
+<ul style="list-style-type:disk">
+  <li><a href="https://doi.org/10.1890/0012-9623(2006)87[155:IFAJ]2.0.CO;2">Interviewing for Academic Jobs by Brian Inouye et al.</a></li>
+</ul>  
+
 ## Info for Faculty
 <ul style="list-style-type:disk">
   <li><a href="https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html">How to write a letter of recommendation by Michael Ernst</a></li>
