@@ -16,6 +16,8 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ## Being a Student
 <ul style="list-style-type:disk">
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
+  
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
   <li><a href="https://jdkincaid.wordpress.com/">First Gen Grads blog by John Kincaid</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
@@ -108,6 +110,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 <ul style="list-style-type:disk">
   <li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/index.html">UNIX/LINUX Tutorial for Beginners</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
+  <li><a href="https://www.nature.com/articles/nbt.2740">So you want to be a computational biologist? by Nick Loman & Mick Watson</a></li>
 </ul>
 
 ### Phylogenetics
