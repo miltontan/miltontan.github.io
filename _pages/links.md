@@ -79,6 +79,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ### Data Visualization
 <ul style="list-style-type:disk">
+  <li><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization by Claus Wilke (online book)</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833">Ten Simple Rules for Better Figures by Nicolas Rougier et al.</a></li>
 </ul>
 
