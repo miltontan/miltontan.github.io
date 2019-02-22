@@ -39,7 +39,7 @@ The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in
 
 ## Fieldwork!
 ![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
-Part of what makes research so exciting is to be able to get out into the field to catch fishes! I have been lucky to have numerous field experiences, including in the United States, Suriname, and Thailand. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what they're genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. In the photo, I am inspecting a vial of larval fishes I had just collected in the Salween River of Thailand, under the shadow of the mountains that form the border on the Myanmar side. (Photo by Zach Randall).
+Part of what makes research so exciting is to be able to get out into the field to catch fishes! I have been lucky to have numerous field experiences, including in the United States, Suriname, Thailand, and Peru. Catching fish isn't just stamp collecting, specimens serve as a primary source of data for my research, so that I can understand what species are out there, where they're found, and what their genes and genomes are like. Specimens that I have collected have been preserved and stored in natural history collections at Auburn University and the Florida Museum of Natural History. In the photo, I am inspecting a vial of larval fishes I had just collected in the Salween River of Thailand, under the shadow of the mountains that form the border on the Myanmar side. (Photo by Zach Randall).
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -48,7 +48,7 @@ Part of what makes research so exciting is to be able to get out into the field 
 
 ## Taxonomy of Fishes
 ![image-center](/assets/images/greedoi_lateral.png){: .align-center}
-Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. Furthermore, the classification of these species provides the foundation for the understanding of the diversity of species. I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>, photo by Jonathan Armbruster. I have also contributed to the classification of members of the Order Cypriniformes.
+Many species remain unknown to science. For scientists to understand how biodiversity arose and the evolution of biodiversity, we must understand what is out there. Furthermore, the classification of these species provides the foundation for the understanding of the diversity of species. I have helped describe numerous new species of catfishes from South America. Pictured is a new species that we described, <i>Peckoltia greedoi</i>, photo by Jonathan Armbruster. I have also contributed to the classification of species that are part of the Order Cypriniformes.
 
 ### Relevant Publications
 
