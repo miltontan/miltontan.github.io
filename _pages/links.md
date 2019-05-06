@@ -17,6 +17,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 ## Being a Student
 <ul style="list-style-type:disk">
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1MYcxZMhf97H5Uxr2Y7XndHn6eEC5oO8XWQi2PU5jLxQ/edit#gid=0">Bio/Biomedical Graduate Programs Dropping GRE Requirement compiled by Joshua Hall</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0">Funded Organismal Biology MS Programs compiled by Stacy Farina</a></li>
   
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
