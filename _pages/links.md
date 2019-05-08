@@ -93,7 +93,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://simonleather.wordpress.com/2018/09/27/how-not-to-respond-to-reviewers-even-if-it-is-reviewer-3/">How not to respond to reviewers – even if it is Reviewer #3 by Simon Leather</a></li>
 </ul>
 
-## Bioinformatics and Analysis
+## Genetics, Bioinformatics, and Analysis
 ### Statistics
 <ul style="list-style-type:disk">
   <li><a href="http://www.biostathandbook.com/">Handbook of Biological Statistics by John McDonald</a></li>
@@ -117,8 +117,9 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://www.nature.com/articles/nbt.2740">So you want to be a computational biologist? by Nick Loman & Mick Watson</a></li>
 </ul>
 
-### Phylogenetics
+### Genetics and Phylogenetics
 <ul style="list-style-type:disk">
+  <li><a href="https://evolutionarygenetics.github.io/">Evolutionary Genetics: Concepts, Analysis & Practice (Online Textbook) by Mark Ravinet & Glenn-Peter Sætre Oslo</a><li>
   <li><a href="https://gist.github.com/brantfaircloth/895282">Specifying substitution models in mrbayes by Brant Faircloth</a></li>
 </ul>
 
