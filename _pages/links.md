@@ -52,30 +52,27 @@ This page compiles helpful links on a variety of topics related to being a scien
 </ul>
 
 ## Writing and Presenting
+
+### Scientific Writing
+<ul style="list-style-type:disk">
+  <li><a href="https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/">Five common writing mistakes new scientists make by Jacquelyn Gill</a></li>
+  <li><a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to construct a <i>Nature</i> summary paragraph</a> (or any abstract)</li>
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0010057">Ten Simple Rules for Getting Published by Philip Bourne</a></li>
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453">Ten Simple Rules for Writing Research Papers by Weixiong Zhang</a></li>
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205">Ten Simple (Empirical) Rules for Writing Science by Cody Weinberger et al.</a></li>
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers by Brett Mensh and Konrad Kording</a></li>
+</ul>
+
 ### Telling the Story
 <ul style="list-style-type:disk">
   <li><a href="https://ecoevoevoeco.blogspot.com/2014/10/how-to-writepresent-science-baby.html">"How to write/present science: BABY-WEREWOLF-SILVER BULLET" by Andrew Hendry (Eco-Evo Evo-Eco)</a></li>
   <li><a href="https://youtu.be/ERB7ITvabA4">"The And, But, Therefore of Storytelling" by Randy Olson, TEDMED 2013 (YouTube)</a></li>
 </ul>
 
-### General Writing
-<ul style="list-style-type:disk">
-  <li><a href="https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/">Five common writing mistakes new scientists make by Jacquelyn Gill</a></li>
-</ul>
-
 ### Grant-writing
 <ul style="list-style-type:disk">
   <li><a href="https://www.ogrants.org/">Open Grants</a></li>
   <li><a href="https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/">Jabberwocky – A list of publicly available grants</a></li>
-</ul>
-
-### Scientific Writing
-<ul style="list-style-type:disk">
-  <li><a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to construct a <i>Nature</i> summary paragraph</a> (or any abstract)</li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0010057">Ten Simple Rules for Getting Published by Philip Bourne</a></li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453">Ten Simple Rules for Writing Research Papers by Weixiong Zhang</a></li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205">Ten Simple (Empirical) Rules for Writing Science by Cody Weinberger et al.</a></li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers by Brett Mensh and Konrad Kording</a></li>
 </ul>
 
 ### Presentations
