@@ -15,19 +15,22 @@ This page compiles helpful links on a variety of topics related to being a scien
 </ul>
 
 ## Being a Student
+
 <ul style="list-style-type:disk">
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1MYcxZMhf97H5Uxr2Y7XndHn6eEC5oO8XWQi2PU5jLxQ/edit#gid=0">Bio/Biomedical Graduate Programs Dropping GRE Requirement compiled by Joshua Hall</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0">Funded Organismal Biology MS Programs compiled by Stacy Farina</a></li>
-  
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
   <li><a href="https://jdkincaid.wordpress.com/">First Gen Grads blog by John Kincaid</a></li>
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
   <li><a href="https://www.nature.com/articles/d41586-018-07332-x">Twenty things I wish I’d known when I started my PhD by Lucy Taylor</a></li>
   
   <li><a href="https://twitter.com/rlmcelreath/status/1070294839349125120">2 page PhD proposal template by Richard McElreath</a></li>
 </ul>
+
+### Finding a Program
+<ul style="list-style-type:disk">
+  <li><a href="https://docs.google.com/spreadsheets/d/1MYcxZMhf97H5Uxr2Y7XndHn6eEC5oO8XWQi2PU5jLxQ/edit#gid=0">Bio/Biomedical Graduate Programs Dropping GRE Requirement compiled by Joshua Hall</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0">Funded Organismal Biology MS Programs compiled by Stacy Farina</a></li>
 
 ### How to read a scientific paper
 <ul style="list-style-type:disk">
