@@ -121,7 +121,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ### Genetics and Phylogenetics
 <ul style="list-style-type:disk">
-  <li><a href="https://evolutionarygenetics.github.io/">Evolutionary Genetics: Concepts, Analysis & Practice (Online Textbook) by Mark Ravinet & Glenn-Peter Sætre Oslo</a>
+  <li><a href="https://evolutionarygenetics.github.io/">Evolutionary Genetics: Concepts, Analysis & Practice (Online Textbook) by Mark Ravinet & Glenn-Peter Sætre Oslo</a></li>
   <li><a href="https://gist.github.com/brantfaircloth/895282">Specifying substitution models in mrbayes by Brant Faircloth</a></li>
 </ul>
 
