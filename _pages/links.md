@@ -144,7 +144,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ## Interviewing
 <ul style="list-style-type:disk">
-  <li><a href="https://doi.org/10.1890/0012-9623(2006)87[155:IFAJ]2.0.CO;2">Interviewing for Academic Jobs by Brian Inouye et al. (ESA)</a></li>
+  <li><a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9623%282006%2987%5B155%3AIFAJ%5D2.0.CO%3B2">Interviewing for Academic Jobs by Brian Inouye et al. (ESA)</a></li>
 </ul>  
 
 ## Info for Faculty
