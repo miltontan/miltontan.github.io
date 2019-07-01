@@ -15,16 +15,19 @@ This page compiles helpful links on a variety of topics related to being a scien
 </ul>
 
 ## Being a Student
-
 <ul style="list-style-type:disk">
   <li><a href="https://howtogradschoolwhilepoor.blogspot.com/">How to Grad School While Poor by Karra Shimabukuro</a></li>
   <li><a href="https://jdkincaid.wordpress.com/">First Gen Grads blog by John Kincaid</a></li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
   <li><a href="https://www.nature.com/articles/d41586-018-07332-x">Twenty things I wish I’d known when I started my PhD by Lucy Taylor</a></li>
   
   <li><a href="https://twitter.com/rlmcelreath/status/1070294839349125120">2 page PhD proposal template by Richard McElreath</a></li>
+</ul>
+
+### Specifically for undergraduates
+<ul style="list-style-type:disk">
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
 </ul>
 
 ### Finding a Program
@@ -94,6 +97,13 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://ecoevoevoeco.blogspot.com/2014/11/how-to-be-reviewereditor.html">How to be a reviewer/editor by Andrew Hendry (Eco-Evo Evo-Eco)</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730">Ten simple rules for writing a response to reviewers by William Noble</a></li>
   <li><a href="https://simonleather.wordpress.com/2018/09/27/how-not-to-respond-to-reviewers-even-if-it-is-reviewer-3/">How not to respond to reviewers – even if it is Reviewer #3 by Simon Leather</a></li>
+</ul>
+
+## Curating an online presence
+<ul style="list-style-type:disk">
+  <li><a href="https://orcid.org/">ORCID</a></li>
+  <li><a href="https://theprofessorisin.com/2012/02/07/the-ins-and-outs-of-a-professional-academic-website-guest-post-2/">The Ins and Outs of a Professional Academic Website (Guest Post) by Roger Whitson</a></li>
+  <li><a href="https://www.americanscientist.org/blog/macroscope/the-benefits-of-twitter-for-scientists">The Benefits of Twitter for Scientists by David Shiffman</a></li>
 </ul>
 
 ## Genetics, Bioinformatics, and Analysis
