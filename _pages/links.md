@@ -125,6 +125,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### Basics
 <ul style="list-style-type:disk">
   <li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/index.html">UNIX/LINUX Tutorial for Beginners</a></li>
+  <li><a href="https://astrobiomike.github.io/">Happy Belly Bioinformatics by Mike Lee</a></li>
   <li><a href="https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html">Introduction to text manipulation on UNIX-based systems by Brad Yoes</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
   <li><a href="https://www.nature.com/articles/nbt.2740">So you want to be a computational biologist? by Nick Loman & Mick Watson</a></li>
