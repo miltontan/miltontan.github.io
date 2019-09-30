@@ -95,9 +95,16 @@ This page compiles helpful links on a variety of topics related to being a scien
 </ul>
 
 ## Peer Review
+
+### Being a Peer Reviewer
 <ul style="list-style-type:disk">
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020110">Ten Simple Rules for Reviewers by Philip Bourne & Alon Korngreen</a></li>
   <li><a href="https://ecoevoevoeco.blogspot.com/2014/11/how-to-be-reviewereditor.html">How to be a reviewer/editor by Andrew Hendry (Eco-Evo Evo-Eco)</a></li>
+  <li><a href="https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf">A Guide to Peer Review in Ecology and Evolution by the British Ecological Society</a></li>
+</ul>
+
+### Responding to Peer Review
+<ul style="list-style-type:disk">
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730">Ten simple rules for writing a response to reviewers by William Noble</a></li>
   <li><a href="https://simonleather.wordpress.com/2018/09/27/how-not-to-respond-to-reviewers-even-if-it-is-reviewer-3/">How not to respond to reviewers – even if it is Reviewer #3 by Simon Leather</a></li>
 </ul>
