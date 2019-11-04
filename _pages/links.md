@@ -32,6 +32,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ### Finding and Applying for a Program
 <ul style="list-style-type:disk">
+  <li><a href="https://kamounlab.tumblr.com/post/188810954020/how-to-select-a-phd-lab">How to Select a PhD Lab by Sophien Kamoun</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1MYcxZMhf97H5Uxr2Y7XndHn6eEC5oO8XWQi2PU5jLxQ/edit#gid=0">Bio/Biomedical Graduate Programs Dropping GRE Requirement compiled by Joshua Hall</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0">Funded Organismal Biology MS Programs compiled by Stacy Farina</a></li>
   <li><a href="https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/">Applying to a PhD program in the US as an international student by Rafael Marcondes (written for students interested in evolutionary biology)</a></li>
