@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Milton Tan"
-  avatar           : /assets/images/JDE3948_sq.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/IHS-2019-Tan-M_sq.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Research Scientist, Illinois Natural History Survey, University of Illinois at Urbana-Champaign. Biodiversity, Evolution, Genomics in Fishes."
 #  location         : "Somewhere"
   email            : miltont@illinois.edu
