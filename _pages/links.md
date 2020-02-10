@@ -124,6 +124,13 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://www.pathwaycommons.org/guide/primers/statistics/">Pathway Guide to Statistics for Gene Set Enrichment Analysis</a></li>
 </ul>
 
+### Introduction to Bioinformatics
+<ul style="list-style-type:disk">
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
+  <li><a href="https://www.nature.com/articles/nbt.2740">So you want to be a computational biologist? by Nick Loman & Mick Watson</a></li>
+  <li><a href ="https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/">My opinionated selection of books/urls for bioinformatics/data science curriculum by Ming Tang</a></li>
+</ul>
+
 ### Setting up a new machine and useful software
 <ul style="list-style-type:disk">
   <li><a href="http://www.benjack.io/2016/01/02/el-capitan-biocomputing.html">Setting up El Capitan (or Sierra) for biocomputing by Benjamin Jack</a></li>
@@ -133,14 +140,12 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="http://hgdownload.cse.ucsc.edu/admin/exe/">UCSC Genome Browser and Blat application binaries</a></li>
 </ul>
 
-### Introduction and Basics
+### Basics of Bioinformatics
 <ul style="list-style-type:disk">
   <li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/index.html">UNIX/LINUX Tutorial for Beginners</a></li>
   <li><a href="https://astrobiomike.github.io/">Happy Belly Bioinformatics by Mike Lee</a></li>
   <li><a href="https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html">Introduction to text manipulation on UNIX-based systems by Brad Yoes</a></li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
-  <li><a href="https://www.nature.com/articles/nbt.2740">So you want to be a computational biologist? by Nick Loman & Mick Watson</a></li>
-  <li><a href ="https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/">My opinionated selection of books/urls for bioinformatics/data science curriculum by Ming Tang</a></li>
+  <li><a href="https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources">Unix, R and python tools for genomics and data science by Ming Tang</a></li>
 </ul>
 
 ### Genetics and Phylogenetics
