@@ -129,6 +129,8 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871">Ten simple rules for biologists learning to program by Maureen Carey and Jason Papin</a></li>
   <li><a href="https://www.nature.com/articles/nbt.2740">So you want to be a computational biologist? by Nick Loman & Mick Watson</a></li>
   <li><a href ="https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/">My opinionated selection of books/urls for bioinformatics/data science curriculum by Ming Tang</a></li>
+  <li><a href="https://github.com/harvardinformatics/learning-bioinformatics-at-home">Harvard Informatics: Learning Bioinformatics at Home</a></li>
+  <li><a href="https://aggietutorialfarm.faculty.ucdavis.edu/">Aggie Tutorial farm</a></li>
 </ul>
 
 ### Setting up a new machine and useful software
