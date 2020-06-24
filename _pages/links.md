@@ -131,6 +131,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href ="https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/">My opinionated selection of books/urls for bioinformatics/data science curriculum by Ming Tang</a></li>
   <li><a href="https://github.com/harvardinformatics/learning-bioinformatics-at-home">Harvard Informatics: Learning Bioinformatics at Home</a></li>
   <li><a href="https://aggietutorialfarm.faculty.ucdavis.edu/">Aggie Tutorial farm</a></li>
+  <li><a href="https://bioinformaticsworkbook.org/">Bioinformatics Workbook: A tutorial to help scientists design their projects and analyze their data</a></li>
 </ul>
 
 ### Setting up a new machine and useful software
