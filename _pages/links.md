@@ -36,6 +36,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://docs.google.com/spreadsheets/d/1MYcxZMhf97H5Uxr2Y7XndHn6eEC5oO8XWQi2PU5jLxQ/edit#gid=0">Bio/Biomedical Graduate Programs Dropping GRE Requirement compiled by Joshua Hall</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0">Funded Organismal Biology MS Programs compiled by Stacy Farina</a></li>
   <li><a href="https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/">Applying to a PhD program in the US as an international student by Rafael Marcondes (written for students interested in evolutionary biology)</a></li>
+  <li><a href="https://german.bio.uci.edu/images/PDF/Application_Guide.pdf">A guide for applying to graduate school in Biology by German Lab</a></li>
 </ul>
 
 ### How to read a scientific paper
