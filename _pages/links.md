@@ -44,6 +44,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper">Infographic: How to read a scientific paper by Natalia Rodriguez</a></li>
   <li><a href="http://aspb.org/wp-content/uploads/2016/04/HowtoReadScientificPaper.pdf">How to read a scientific paper by the American Society of Plant Biologists</a></li>
   <li><a href="http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/">How to read and understand a scientific paper: a guide for non-scientists by Jennifer Raff</a></li>
+  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032">Ten simple rules for reading a scientific paper by Maureen A. Carey, Kevin L. Steiner, William A. Petri Jr</a></li>
   <li><a href="https://www.patreon.com/posts/print-your-own-7765312">PRINT YOUR OWN: Journal article notebook by Christine Liu (a printable notebook template for taking notes on papers)</a></li>
 </ul>
 
