@@ -161,7 +161,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ### R, particularly comparative methods
 <ul style="list-style-type:disk">
-  <li><a href="https://rstudio.com/resources/cheatsheets/">RStudio cheat sheets</a></href> (Check out the base R one!)
+  <li><a href="https://rstudio.com/resources/cheatsheets/">RStudio cheat sheets</a></href> (Check out the base R one!)</li>
   <li><a href="https://r4ds.had.co.nz/">R for Data Science by Garrett Grolemund & Hadley Wickham</a></li>
   <li><a href="https://docs.google.com/document/d/1obm0tdkaaqdc1sfI9TZo3afz_ksKX5s64udD-WxbP0s/">Getting Started With R When You Know Absolutely Nothing by Moin Syed</a></li>
 <li><a href="https://cran.r-project.org/web/views/Phylogenetics.html">Phylogenetics, Especially Comparative Methods available in R by Brian O'Meara</a></li>
