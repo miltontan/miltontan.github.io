@@ -21,7 +21,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229">Ten Simple Rules for Graduate Students by Jenny Gu & Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954">Ten Simple Rules for Finishing Your PhD by Jacopo Marino et al.</a></li>
   <li><a href="https://www.nature.com/articles/d41586-018-07332-x">Twenty things I wish I’d known when I started my PhD by Lucy Taylor</a></li>
-  
+  <li><a href="https://danicrain.netlify.app/otherproject/graduatestudentsuccess/">Links and tips for Graduate Student Success by Danielle D. Crain</a></li>
   <li><a href="https://twitter.com/rlmcelreath/status/1070294839349125120">2 page PhD proposal template by Richard McElreath</a></li>
 </ul>
 
@@ -37,6 +37,7 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://docs.google.com/spreadsheets/d/1f34fVzPkKviz0732mU8YtkTnLVaNNUjK_SKCTSglD0o/edit#gid=0">Funded Organismal Biology MS Programs compiled by Stacy Farina</a></li>
   <li><a href="https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/">Applying to a PhD program in the US as an international student by Rafael Marcondes (written for students interested in evolutionary biology)</a></li>
   <li><a href="https://german.bio.uci.edu/images/PDF/Application_Guide.pdf">A guide for applying to graduate school in Biology by German Lab</a></li>
+  <li><a href="https://danicrain.netlify.app/pdf/STEMculture_2019_QsforGradSchool.pdf">How to Apply for Grad School (and questions to ask before graduate school) by Danielle D Crain</a></li>
 </ul>
 
 ### How to read a scientific paper
