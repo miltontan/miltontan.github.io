@@ -160,10 +160,10 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://gist.github.com/brantfaircloth/895282">Specifying substitution models in mrbayes by Brant Faircloth</a></li>
 </ul>
 
-### R, particularly comparative methods
+### R
 <ul style="list-style-type:disk">
   <li><a href="https://rstudio.com/resources/cheatsheets/">RStudio cheat sheets</a> (Check out the base R one!)</li>
-  <li><a href="https://rforcats.net/">R for Cats (An intro to R for new programmers) by Scott Chamberlain</a></li>
+  <li><a href="https://rforcats.net/">R for Cats (An intro to R for new programmers) by Scott Chamberlain</a> (Includes introduction to using R to get data from the web)</li>
   <li><a href="https://astrobiomike.github.io/R/">R Beginner Tutorial via Happy Belly Bioinformatics by Mike Lee</a></li>
   <li><a href="https://r4ds.had.co.nz/">R for Data Science by Garrett Grolemund & Hadley Wickham</a></li>
   <li><a href="https://docs.google.com/document/d/1obm0tdkaaqdc1sfI9TZo3afz_ksKX5s64udD-WxbP0s/">Getting Started With R When You Know Absolutely Nothing by Moin Syed</a></li>
