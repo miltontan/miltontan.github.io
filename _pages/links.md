@@ -197,4 +197,5 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html">How to write a letter of recommendation by Michael Ernst</a></li>
   <li><a href="http://expd.uw.edu/scholarships/faculty-staff/letters-of-recommendation/tips-for-writing-strong-letters-of-recommendation/">Tips for writing strong letters of recommendation</a></li>
   <li><a href="https://dynamicecology.wordpress.com/2018/09/26/how-i-write-tenure-and-promotion-letters/">How I write tenure and promotion letters by Jeremy Fox (Dynamic Ecology)</a></li>
+  <li><a href="https://sociobiology.wordpress.com/2013/02/21/how-to-interview-prospective-graduate-students/">How to interview prospective graduate students by Joan E. Strassmann</a></li>
 </ul>  
