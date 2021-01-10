@@ -27,7 +27,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
   <li><a href="https://twitter.com/rlmcelreath/status/1070294839349125120">2 page PhD proposal template by Richard McElreath</a></li>
 </ul>
 
-### Specifically for undergraduates
+### Undergraduate Research
 <ul style="list-style-type:disk">
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
 </ul>
