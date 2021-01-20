@@ -75,6 +75,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453">Ten Simple Rules for Writing Research Papers by Weixiong Zhang</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205">Ten Simple (Empirical) Rules for Writing Science by Cody Weinberger et al.</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Ten simple rules for structuring papers by Brett Mensh and Konrad Kording</a></li>
+  <li><a href="https://jane.biosemantics.org/">Journal/Author Name Estimator (a tool that helps find a journal that fits your abstract)</a></href></li>
 </ul>
 
 ### Telling the Story
