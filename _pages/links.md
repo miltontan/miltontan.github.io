@@ -194,6 +194,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 ## Postdocs
 <ul style="list-style-type:disk">
   <li><a href="https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0">ecology, evolution, & quantitative postdoc fellowship opportunities</a></li>
+  <li><a href="https://genestogenomes.org/unwritten-rules-of-applying-for-postdocs/">Unwritten rules of applying for postdocs by B. Duygu Özpolat</a></li>
 </ul>  
 
 
