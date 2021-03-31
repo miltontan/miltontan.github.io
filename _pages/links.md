@@ -191,10 +191,11 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
   <li><a href="https://dx.doi.org/10.1890/0012-9623%282006%2987%5B155%3AIFAJ%5D2.0.CO%3B2">Interviewing for Academic Jobs by Brian Inouye et al. (ESA)</a></li>
 </ul>  
 
-## Postdocs
+## Postdocs and jobs
 <ul style="list-style-type:disk">
   <li><a href="https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0">ecology, evolution, & quantitative postdoc fellowship opportunities</a></li>
   <li><a href="https://genestogenomes.org/unwritten-rules-of-applying-for-postdocs/">Unwritten rules of applying for postdocs by B. Duygu Özpolat</a></li>
+  <li><a href="https://docs.google.com/document/d/15ylkL0gIAf5vlrS5-T87MJoO9x52uqroV_9acWQmn6A/">Applying to a job in the U.S. Federal Government with a graduate degree by Shawn Taylor</a></li>
 </ul>  
 
 
