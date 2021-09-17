@@ -14,6 +14,8 @@ This page compiles helpful links on a variety of topics related to being a scien
   <li><a href="http://science.sciencemag.org/content/142/3590/339.1">Chaos in the Brickyard by Bernard Forscher (Science), a classic essay on the process of science</a></li>
   <li><a href="https://docs.google.com/document/d/1IFbHIN5OOAO0qz-VfCU9nEx4-x6CfArj1-d8ylA2vsU/edit">Free and low cost resources for graduate 
 students, postdocs, and early career researchers (or really anyone else) by Jaclyn Siegel</a></li>
+  <li><a href="https://fieldworkfuture.ucsc.edu/">Building a Better Fieldwork Future</a> - Workshops and resources on preventing sexual harassment and assault in field settings</li>
+  <li><a href="https://ambikamath.com/2021/06/07/dialectical-future/">A Dialectical Future for Behavioral (and Evolutionary) Ecology</a> by Amika Kamath - Presentation on bringing new ideas into science (also, see other posts on the blog!)</li>
 </ul>
 
 ## Being a Student
