@@ -170,8 +170,9 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 
 ### R
 <ul style="list-style-type:disk">
-  <li><a href="https://github.com/iamericfletcher/awesome-r-learning-resources">Awesome R Learning Resources</a> (a link list with books for R)</li>
   <li><a href="https://rstudio.com/resources/cheatsheets/">RStudio cheat sheets</a> (Check out the base R one!)</li>
+  <li><a href="https://github.com/iamericfletcher/awesome-r-learning-resources">Awesome R Learning Resources</a> (a link list with books for R)</li>
+  <li><a href="https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R">Learning R Resources by Josclein Rocha</a> (links marked by Beginner, Intermediate, or Advanced)</li>
   <li><a href="https://rforcats.net/">R for Cats (An intro to R for new programmers) by Scott Chamberlain</a> (Includes introduction to using R to get data from the web)</li>
   <li><a href="https://astrobiomike.github.io/R/">R Beginner Tutorial via Happy Belly Bioinformatics by Mike Lee</a></li>
   <li><a href="https://r4ds.had.co.nz/">R for Data Science by Garrett Grolemund & Hadley Wickham</a></li>
