@@ -4,23 +4,31 @@ permalink: /teaching/
 ---
 &nbsp;
 ## Teaching Experience
+### Instructor of Record
+<ul>
+  <li>Spring 2021. Co-Instructor for Current Topics in Systematics seminar. University of Illinois at Urbana-Champaign.</li>
+  <li>Spring 2021. Co-Instructor for Innovations in Conservation and Evolutionary Genetics seminar. University of Illinois at Urbana-Champaign.</li>
+  <li>Fall 2020. Co-Instructor for Principles of Systematics. University of Illinois at Urbana-Champaign.</li>
+</ul>
+
+### Guest Lecture
+<ul>
+  <li>Summer 2016. Virtual guest lecturer for <b>Phylogenetics and Systematics</b>. Arkansas State Univeristy</li>
+<li>Summer 2016. Guest lecturer for <b>Human Anatomy & Physiology II</b>. Auburn University.</li>
+<li>Fall 2015. Guest lecturer for <b>Evolution & Systematics</b>. Auburn University.</li>
+<li>Fall 2012. Guest lecturer for <b>Evolution & Systematics</b>. Auburn University.</li>
+<li>Spring 2011. Graduate student lecturer for <b>Developmental Molecular Biology</b> graduate class. Auburn University.</li>
+</ul>
+
 ### Teaching Assistant
 <ul>
 <li>2016. <b>Comparative Anatomy</b> lab. Auburn University.</li>
-<li>2009–2015. <b>Human Anatomy & Physiology I</b> lab. Auburn University</li>
-</ul>
-
-### Lecture
-<ul>
-<li>Summer 2016. Guest lecturer for <b>Human Anatomy & Physiology II</b></li>
-<li>Fall 2015. Guest lecturer for <b>Evolution & Systematics</b> undergraduate class</li>
-<li>Fall 2012. Guest lecturer for <b>Evolution & Systematics</b> undergraduate class</li>
-<li>Spring 2011. Graduate student lecturer for <b>Developmental Molecular Biology</b> graduate class</li>
+<li>2009–2015. <b>Human Anatomy & Physiology I</b> lab. Auburn University.</li>
 </ul>
 
 ### Outside the Classroom
 <ul>
-<li>2011–2016. Mentoring of undergraduate researchers, including a student who led an independent research project and was awarded an undergraduate research fellowship.</li>
+<li>2011–. Mentoring of undergraduate researchers, including a students who have led independent research project and were awarded undergraduate research fellowships or degrees with distinction.</li>
 <li>2015–2016. Biology Tutor for Office of Diversity and Multicultural Affairs, Auburn University.</li>
 <li>2016. Instructor for R workshop at Joint Meeting of Ichthyologists and Herpetologists</li>
 </ul>
