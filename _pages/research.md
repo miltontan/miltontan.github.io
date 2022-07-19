@@ -3,28 +3,32 @@ layout: single
 permalink: /research/
 ---
 
-I am inspired by the diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, so they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
+Research in the lab focuses on diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, so they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
 
-## Whole Genome Analysis of the Whale Shark
-![image-center](/assets/images/whaleshark_sm.jpg){: .align-center}
-The Whale Shark genome project is a collaboration between Emory University and Georgia Aquarium. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome. In ongoing research, we will use the genome to help us understand the origin of vertebrates, the evolution of sharks, and the unique biology of the whale shark.
-
-### Relevant Publications
-<ul style="list-style-type:disk">
-  <li>2017. TD Read, RA Petit III, SJ Joseph, MT Alam, MR Weil, Maida Ahmad, R Bhimani, JS Vuong, CP Haase, DH Webb, <b>M Tan (corresponding author)</b>, ADM Dove. Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: <i>Rhincodon typus</i> Smith 1828. BMC Genomics 18: 532. doi: 10.1186/s12864-017-3926-9</li>
-</ul>
-
-## Evolution of Miniaturization in Cypriniformes
-![image-center](/assets/images/RC0222_crop.png){: .align-center}
-The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The Cypriniformes also have among the largest number of species of miniature fishes, including some of the smallest vertebrates, like <i>Paedocypris</i>. I have been particularly interested in understanding the evolution of miniaturization in these fishes. My research has provided insight into the relationships among fishes in this group, into patterns of body size evolution across one of the most diverse groups of fishes, and into the effect of selection across thousands of genes in miniature fishes. (Photo kindly provided by Rupert Collins).
+## Phylogenetics of Fishes
+Phylogenies represent the evolutionary relationships among species, and this remains not well understood for many diverse clades. In addition, phylogenies are useful for comparative biology for inferring the history of evolution of traits including morphology, ecology, biogeography, and genomes. Hence, much of the comparative work in the lab is built on a foundation of phylogenetics. Ongoing efforts in the lab focus on reconstructing the phylogenies of diverse clades such as Cypriniformes and Siluriformes. The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The catfishes (Order Siluriformes) comprise over 3,000 species of fishes: Roughly one in twenty vertebrate species is a catfish! Phylogenies for these clades will help to establish informed classifications and help reconstruct their evolution and diversification.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
+  <li>2018. <b>M Tan</b>, JW Armbruster. Phylogenetic classification of extant genera of fishes of the order Cypriniformes (Teleostei: Ostariophysi). Zootaxa 4476(1): 006–039. doi: 10.11646/zootaxa.4476.1.4</li>
   <li>2016. CC Stout, <b>M Tan (co-first author)</b>, AR Lemmon, EM Lemmon, JW Armbruster. Resolving Cypriniformes relationships using an Anchored Hybrid Enrichment approach. BMC Evolutionary Biology 16: 244. doi: 10.1186/s12862-016-0819-5</li>
 </ul>
 
-## Adaptive Radiation in Fishes
-Adaptive radiation is a classic process used to explain the diversity of species. However, adaptive radiation has been difficult to detect in many comparative datasets. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
+## Comparative Genomics
+![image-center](/assets/images/whaleshark_sm.jpg){: .align-center}
+Understanding the origin and evolution of traits can be studied from a genomic perspective. Much of this work has thus far focused on sharks. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome, a collaboration between Emory University and Georgia Aquarium that I played a lead role in. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. In ongoing research, we use shark genomes to help us understand the origin and evolution of vertebrates and sharks, and identify unique genomic patterns of evolution that may relate to shark traits. Further comparative genomics research also focuses on the evolution of polyploidy in suckers (family Catostomidae) and other Cypriniformes in collaboration with Dr. Trevor Krabbenhoft.
+
+### Relevant Publications
+<ul style="list-style-type:disk">
+  <li>2021. TJ Krabbenhoft, DJ MacGuigan, NJC Backenstose, H Waterman, T Lan, JA Pelosi, <b>M Tan</b>, SR Sandve. Chromosome-level genome assembly of Chinese sucker (Myxocyprinus asiaticus) reveals strongly-conserved synteny following a catostomid-specific whole genome duplication. Genome Biology and Evolution. doi: 10.1093/gbe/evab190.</li>
+  <li>2021. <b>M Tan</b>, AK Redmond, H Dooley, R Nozu, K Sato, S Kuraku, S Koren, AM Phillippy, ADM Dove, TD Read. The whale shark genome reveals patterns of vertebrate gene family evolution. eLife 10:e65394. doi: 10.7554/eLife.65394.</li>
+  <li>2017. TD Read, RA Petit III, SJ Joseph, MT Alam, MR Weil, Maida Ahmad, R Bhimani, JS Vuong, CP Haase, DH Webb, <b>M Tan (corresponding author)</b>, ADM Dove. Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: <i>Rhincodon typus</i> Smith 1828. BMC Genomics 18: 532. doi: 10.1186/s12864-017-3926-9</li>
+</ul>
+
+### Evolution and Diversification of Fish Traits
+![image-left](/assets/images/RC0222_crop.png){: width="250" } ![image-right](/assets/images/catfishes.001_crop_sm.png){: width="250" }
+(<i>Paedocypris</i> photo kindly provided by Rupert Collins).
+With phylogenies, we can also understand the origin and evolution of traits in fishes, including body size, shape, ecology, and biogeography, as well as patterns of diversification and their relationship to traits. Fishes are morphologically diverse, including extreme variation ranging from miniature fishes in the Order Cypriniformes to giants such as the whale shark. Some projects in the lab include studying miniaturization within the Cypriniformes, gigantism and longevity in sharks and other vertebrates, and body shape evolution in catfishes. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -32,10 +36,6 @@ Adaptive radiation is a classic process used to explain the diversity of species
   <li>2017. ED Burress, <b>M Tan</b>. Ecological opportunity alters the timing and shape of adaptive radiation. Evolution. doi: 10.1111/evo.13362</li>
   <li>2017. ED Burress, JM Holcomb, <b>M Tan</b>, JW Armbruster. Ecological diversification associated with the benthic-to-pelagic transition by North American minnows. Journal of Evolutionary Biology 30(3): 549-560. doi: 10.1111/jeb.13024</li>
 </ul>
-
-## Evolution of Defenses in Catfishes
-![image-left](/assets/images/catfishes.001_crop_sm.png){: .align-left}
-The catfishes (Order Siluriformes) are a diverse group of fishes. Roughly one in twenty vertebrate species is a catfish! It has been hypothesized that the evolution of catfish defense mechanisms have helped catfishes diversify, but this has yet to be tested. Through a recently-funded fellowship from the National Science Foundation, I will study the relationship of the evolution of catfish defense mechanisms to their rates of diversification.
 
 ## Fieldwork!
 ![image-center](/assets/images/12615368_10208632610277540_9206946955445239210_o_sm.png){: .align-center}
