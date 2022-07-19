@@ -3,7 +3,7 @@ layout: single
 permalink: /research/
 ---
 
-Research in the lab focuses on diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, so they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
+Research in the lab focuses on diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, so they are an important part of vertebrate diversity. In the lab's research, we study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, we use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
 
 ## Phylogenetics of Fishes
 ![image-left](/assets/images/12862_2016_819_Fig2_HTML.webp){: width="300" }
