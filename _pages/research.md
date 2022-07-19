@@ -7,6 +7,7 @@ Research in the lab focuses on diversity in fishes and their huge variety in spe
 
 ## Phylogenetics of Fishes
 ![image-left](/assets/images/12862_2016_819_Fig2_HTML.webp){: width="300" }
+
 Phylogenies represent the evolutionary relationships among species, and this remains not well understood for many diverse clades. In addition, phylogenies are useful for comparative biology for inferring the history of evolution of traits including morphology, ecology, biogeography, and genomes. Hence, much of the comparative work in the lab is built on a foundation of phylogenetics. Ongoing efforts in the lab focus on reconstructing the phylogenies of diverse clades such as Cypriniformes and Siluriformes. The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The catfishes (Order Siluriformes) comprise over 3,000 species of fishes: Roughly one in twenty vertebrate species is a catfish! Phylogenies for these clades will help to establish informed classifications and help reconstruct their evolution and diversification. 
 
 ### Relevant Publications
