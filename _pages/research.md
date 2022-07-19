@@ -6,7 +6,7 @@ permalink: /research/
 Research in the lab focuses on diversity in fishes and their huge variety in species and forms. There are about as many fish species as there are birds, amphibians, reptiles, and mammals combined, so they are an important part of vertebrate diversity. In my research, I study the evolution of fishes to understand their relationships, the evolution of traits in fishes like body size, and how fishes diversified. To do this, I use genomics and comparative methods to reconstruct evolutionary trees, which then provide a historical framework to reconstruct how genomes and traits evolved.
 
 ## Phylogenetics of Fishes
-![image-left](/assets/images/12862_2016_819_Fig2_HTML.webp){: .align-left} 
+![image-left](/assets/images/12862_2016_819_Fig2_HTML.webp){: width="300" }
 Phylogenies represent the evolutionary relationships among species, and this remains not well understood for many diverse clades. In addition, phylogenies are useful for comparative biology for inferring the history of evolution of traits including morphology, ecology, biogeography, and genomes. Hence, much of the comparative work in the lab is built on a foundation of phylogenetics. Ongoing efforts in the lab focus on reconstructing the phylogenies of diverse clades such as Cypriniformes and Siluriformes. The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The catfishes (Order Siluriformes) comprise over 3,000 species of fishes: Roughly one in twenty vertebrate species is a catfish! Phylogenies for these clades will help to establish informed classifications and help reconstruct their evolution and diversification. 
 
 ### Relevant Publications
@@ -31,6 +31,7 @@ Understanding the origin and evolution of traits can be studied from a genomic p
 ### Evolution and Diversification of Fish Traits
 ![image-left](/assets/images/RC0222_crop.png){: width="300" } ![image-right](/assets/images/catfishes.001_crop_sm.png){: width="300" }
 (<i>Paedocypris</i> photo kindly provided by Rupert Collins).
+
 With phylogenies, we can also understand the origin and evolution of traits in fishes, including body size, shape, ecology, and biogeography. We can also understand why diversification varies across clades, and the relationship this may have to traits. Fishes are morphologically diverse, including extreme variation ranging from miniature fishes in the Order Cypriniformes to giants such as the whale shark. Some projects in the lab include studying miniaturization within the Cypriniformes, gigantism and longevity in sharks and other vertebrates, and body shape evolution in catfishes. In collaboration with Dr. Ed Burress, we are dissecting the patterns of evolution in fishes, especially cichlids, to gain insight into the role of ecology and morphology in their diversification.
 
 ### Relevant Publications
