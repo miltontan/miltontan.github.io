@@ -8,7 +8,7 @@ Research in the lab focuses on diversity in fishes and their huge variety in spe
 ## Phylogenetics of Fishes
 ![image-left](/assets/images/12862_2016_819_Fig2_HTML.webp){: width="300" }
 
-Phylogenies represent the evolutionary relationships among species, and this remains not well understood for many diverse clades. In addition, phylogenies are useful for comparative biology for inferring the history of evolution of traits including morphology, ecology, biogeography, and genomes. Hence, much of the comparative work in the lab is built on a foundation of phylogenetics. Ongoing efforts in the lab focus on reconstructing the phylogenies of diverse clades such as Cypriniformes and Siluriformes. The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The catfishes (Order Siluriformes) comprise over 3,000 species of fishes: Roughly one in twenty vertebrate species is a catfish! Phylogenies for these clades will help to establish informed classifications and help reconstruct their evolution and diversification. 
+Phylogenies represent the evolutionary relationships among species, and are useful in comparative biology for inferring the history of evolution of traits including morphology, ecology, biogeography, and genomes. However, phylogenies are still not well resolved for many diverse groups. Hence, much of the comparative work in the lab is built on a foundation of phylogenetics. Ongoing efforts in the lab focus on reconstructing the phylogenies of diverse clades such as Cypriniformes and Siluriformes. The order Cypriniformes is one of the most diverse groups of fishes, including over 4,000 species of carps, minnows, and their relatives. The catfishes (Order Siluriformes) comprise over 3,000 species of fishes: Roughly one in twenty vertebrate species is a catfish! Phylogenies for these clades will help to establish informed classifications and help reconstruct their evolution and diversification. 
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -18,7 +18,7 @@ Phylogenies represent the evolutionary relationships among species, and this rem
 
 ## Genomics and Comparative Genomics
 ![image-center](/assets/images/whaleshark_sm.jpg){: .align-center}
-Understanding the origin and evolution of traits can be studied from a genomic perspective. Much of our lab's work in comparative genomics has thus far focused on sharks. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome, a collaboration between Emory University and Georgia Aquarium that I played a lead role in. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. In ongoing research, we use shark genomes to help us understand the origin and evolution of vertebrates and sharks, and identify unique genomic patterns of evolution that may relate to shark traits. Further comparative genomics research also focuses on the evolution of polyploidy in suckers (family Catostomidae) and other Cypriniformes in collaboration with Dr. Trevor Krabbenhoft.
+Comparing genomes across the phylogeny can help understand the origin and evolution of genomic and phenotypic traits across species. Much of our lab's work in comparative genomics has thus far focused on sharks. Despite the wide public interest in sharks, there were no published genomes for any true sharks until we published the whale shark genome, a collaboration between Emory University and Georgia Aquarium that I played a lead role in. Whale sharks are the largest species of fish, and one of the most charismatic fishes in the sea. In ongoing research, we use shark genomes to help us understand the origin and evolution of vertebrates and sharks, and identify unique genomic patterns of evolution that may relate to shark traits. Further comparative genomics research also focuses on the evolution of polyploidy in suckers (family Catostomidae) and other Cypriniformes in collaboration with Dr. Trevor Krabbenhoft.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -33,7 +33,7 @@ Understanding the origin and evolution of traits can be studied from a genomic p
 ![image-left](/assets/images/RC0222_crop.png){: width="300" } ![image-right](/assets/images/catfishes.001_crop_sm.png){: width="300" }
 (<i>Paedocypris</i> photo kindly provided by Rupert Collins).
 
-With phylogenies, we can also understand the origin and evolution of traits in fishes, including body size, shape, ecology, and biogeography. We can also understand why diversification varies across clades, and the relationship this may have to traits. Fishes are morphologically diverse, including extreme variation ranging from miniature fishes in the Order Cypriniformes to giants such as the whale shark. Some projects in the lab include studying miniaturization within the Cypriniformes, gigantism and longevity in sharks and other vertebrates, and body shape evolution in catfishes. In collaborative works we have also studied the role of ecology and morphology in the diversification of other groups such as cichlids and moths.
+With phylogenies, we can also understand the origin and evolution of traits in fishes, including body size, shape, ecology, biogeography, and others. We can also understand why diversification varies across clades, and the relationship that diversification patterns may have to traits. Fishes are morphologically diverse, including extreme variation ranging from miniature fishes in the order Cypriniformes to giants such as the whale shark. Some projects in the lab include studying miniaturization in the Cypriniformes, gigantism and longevity in sharks and other vertebrates, and body shape evolution in catfishes. In collaborative works we have also studied the role of ecology and morphology in the diversification of other groups such as cichlids and moths.
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
@@ -44,7 +44,7 @@ With phylogenies, we can also understand the origin and evolution of traits in f
 </ul>
 
 ## Population Genomics
-Populations of species, their genetic diversity, and how they connect or separate all also relate to ultimately explaining diversity of species across the landscape. In ongoing work, we are using population genomics to understand the diversity of fishes and other species, especially the identification of population structure and even potential cryptic species.
+Populations of species, their genetic diversity, and how they connect or separate all also relate to ultimately explaining diversity of species across the landscape. In ongoing work, we are using population genomics to understand the diversity of fishes and other species, especially the identification of population structure and even potential cryptic species. 
 
 ### Relevant Publications
 <ul style="list-style-type:disk">
