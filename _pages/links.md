@@ -147,7 +147,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 
 ### Setting up a new machine and useful software
 <ul style="list-style-type:disk">
-  <li><a href="https://bioinformaticsworkbook.org/100days/MacbookProInstallation.html#gsc.tab=0">Macbook Pro Installation by Andrew Severin</a> (coreutils, gnu-sed, gnu is important!)</li>
+  <li><a href="https://bioinformaticsworkbook.org/100days/MacbookProInstallation.html#gsc.tab=0">Macbook Pro Installation by Andrew Severin</a> (Installing GNU version tools and R is useful!)</li>
   <li><a href="https://github.com/anilchalisey/parseR/wiki/Setting-up-WSL-Bash-on-Windows-10">Setting up WSL Bash on Windows 10 by Anil Chalisey</a></li>
   <li><a href="https://lcolladotor.github.io/2012/08/23/setting-up-your-computer-for/#.W5Gta5MzphE">Setting up your computer for bioinformatics/biostatistics and a compedium of resources by Leonardo Collado-Torres</a></li>
   <li><a href="http://hgdownload.cse.ucsc.edu/admin/exe/">UCSC Genome Browser and Blat application binaries</a></li>
