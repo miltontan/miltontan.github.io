@@ -73,7 +73,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 <ul style="list-style-type:disk">
   <li><a href="https://geocognitionresearchlaboratory.com/2018/09/11/research-to-publication-materials-to-guide-the-manuscript-writing-process/">Research to Publication (Reading Materials) by Julie Libarkin, covers writing, ethics, authorship, journal selection, and more</a></li>
   <li><a href="https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/">Five common writing mistakes new scientists make by Jacquelyn Gill</a></li>
-  <li><a href="https://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/Annotated_Nature_abstract.pdf">How to construct a <i>Nature</i> summary paragraph</a> (or any abstract)</li>
+  <li><a href="https://www.nature.com/documents/nature-summary-paragraph.pdf">How to construct a <i>Nature</i> summary paragraph</a> (or any abstract)</li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0010057">Ten Simple Rules for Getting Published by Philip Bourne</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453">Ten Simple Rules for Writing Research Papers by Weixiong Zhang</a></li>
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205">Ten Simple (Empirical) Rules for Writing Science by Cody Weinberger et al.</a></li>
