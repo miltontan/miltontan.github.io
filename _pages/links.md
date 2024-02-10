@@ -155,8 +155,9 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 
 ### Basics of Bioinformatics
 <ul style="list-style-type:disk">
+  <li><a href="https://astrobiomike.github.io/">Happy Belly Bioinformatics by Mike Lee (has Unix and R tutorials)</a></li>
   <li><a href="http://www.ee.surrey.ac.uk/Teaching/Unix/index.html">UNIX/LINUX Tutorial for Beginners</a></li>
-  <li><a href="https://astrobiomike.github.io/">Happy Belly Bioinformatics by Mike Lee</a></li>
+  <li><a href="https://sandbox.bio/tutorials/terminal-basics">sandbox.bio (learn Unix and bioinformatics in an interactive Unix emulator)</a></li>
   <li><a href="https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html">Introduction to text manipulation on UNIX-based systems by Brad Yoes</a></li>
   <li><a href="https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources">Unix, R and python tools for genomics and data science by Ming Tang</a></li>
 </ul>
@@ -170,6 +171,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 ### R
 <ul style="list-style-type:disk">
   <li><a href="https://rstudio.com/resources/cheatsheets/">RStudio cheat sheets</a> (Check out the base R one!)</li>
+  <li><a href="https://swirlstats.com/students.html">Learn R with Swirl (Interactive R lessons within R)</a>: Install the R Programming course for good first basic lessons!</li>
   <li><a href="https://github.com/iamericfletcher/awesome-r-learning-resources">Awesome R Learning Resources</a> (a link list with books for R)</li>
   <li><a href="https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R">Learning R Resources by Josclein Rocha</a> (links marked by Beginner, Intermediate, or Advanced)</li>
   <li><a href="https://rforcats.net/">R for Cats (An intro to R for new programmers) by Scott Chamberlain</a> (Includes introduction to using R to get data from the web)</li>
