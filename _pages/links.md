@@ -35,8 +35,10 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
   <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
 </ul>
 
-### Finding and Applying for a Program
+### Finding and Applying for Graduate School
 <ul style="list-style-type:disk">
+  <li><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.2029">Demystifying the Graduate School Application Process
+ by Estien et al.</a></li>
   <li><a href="https://docs.google.com/document/d/1fNfQVwDCTUFejDsimIq8Mn2srWEA97tqVTsDkQQ1UpE/edit">Graduate School Application Cheat Sheet (Hints and tips for the PhD application process) by Field Guides program at University of Minnesota</a></li>
   <li><a href="https://eegradpreview.weebly.com/">Evolution & Ecology Graduate School Preview (Guide to Applying to Graduate EEB Programs) by UC Davis Population Biology graduate Group</a></li>
   <li><a href="https://kamounlab.tumblr.com/post/188810954020/how-to-select-a-phd-lab">How to Select a PhD Lab by Sophien Kamoun</a></li>
