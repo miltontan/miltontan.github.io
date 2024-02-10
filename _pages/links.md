@@ -205,6 +205,7 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
   <li><a href="https://genestogenomes.org/unwritten-rules-of-applying-for-postdocs/">Unwritten rules of applying for postdocs by B. Duygu Özpolat</a></li>
   <li><a href="https://docs.google.com/document/d/15ylkL0gIAf5vlrS5-T87MJoO9x52uqroV_9acWQmn6A/">Applying to a job in the U.S. Federal Government with a graduate degree by Shawn Taylor</a></li>
   <li><a href="https://fromphdtolife.com/resources/recommended-reading/">Recommended Reading for Career Options for PhDs by Jennifer Polk</a></li>
+  <li><a href="https://docs.google.com/document/d/1h68OtynBbrONBbSD1AOU2wACCo6IYLsEttdGi97ke74/edit">Tenure Track Faculty Job Interview Questions</a></li>
 </ul>  
 
 
