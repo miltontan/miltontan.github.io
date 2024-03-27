@@ -93,6 +93,9 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 <ul style="list-style-type:disk">
   <li><a href="https://www.ogrants.org/">Open Grants</a></li>
   <li><a href="https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/">Jabberwocky – A list of publicly available grants</a></li>
+  <li><a href="https://www.usf.edu/arts-sciences/research-scholarship/priority-qa/what-to-include-in-po-email.aspx">What to Include in a Program Officer E-mail</a></li>
+  <li><a href="https://research.ucdenver.edu/docs/librariesprovider148/orde_documents/proposal-development-documents/example-email-format-roane.pdf?sfvrsn=7d232cb9_2">Suggested information to include in an initial email to a Program Officer</a></li>
+  <li><a href="https://www.uvu.edu/osp/docs/what-to-say-to-program-officers.pdf">What to Say—and Not Say—to Program Officers by Michael J. Spires</a></li>
 </ul>
 
 ### Presentations
