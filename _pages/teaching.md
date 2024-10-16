@@ -6,6 +6,7 @@ permalink: /teaching/
 ## Teaching Experience
 ### Instructor of Record
 <ul>
+  <li>Fall 2023. Co-Instructor for Current Topics in Systematics seminar. University of Illinois at Urbana-Champaign.</li>
   <li>Spring 2021. Co-Instructor for Current Topics in Systematics seminar. University of Illinois at Urbana-Champaign.</li>
   <li>Spring 2021. Co-Instructor for Innovations in Conservation and Evolutionary Genetics seminar. University of Illinois at Urbana-Champaign.</li>
   <li>Fall 2020. Co-Instructor for Principles of Systematics. University of Illinois at Urbana-Champaign.</li>
@@ -28,7 +29,7 @@ permalink: /teaching/
 
 ### Outside the Classroom
 <ul>
-<li>2011–. Mentoring of undergraduate researchers, including a students who have led independent research project and were awarded undergraduate research fellowships or degrees with distinction.</li>
+<li>2011–. Mentoring of undergraduate researchers, including students who have led independent research project and were awarded undergraduate research fellowships or degrees with distinction.</li>
 <li>2015–2016. Biology Tutor for Office of Diversity and Multicultural Affairs, Auburn University.</li>
 <li>2016. Instructor for R workshop at Joint Meeting of Ichthyologists and Herpetologists</li>
 </ul>
