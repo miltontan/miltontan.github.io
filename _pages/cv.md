@@ -23,22 +23,20 @@ permalink: /cv/
 Minors in Marine Studies, Business Administration.</li>
 </ul>
 
-### Fellowships
+### Grants and Fellowships
 
 <ul style="list-style-type:disk">
+<li>2024. <b>National Science Foundation</b>: Division of Environmental Biology: “Collaborative Research: Biogeography and Ecology of Diversification After a Transcontinental Freshwater Fish Migration.”</li>
+
+<li>2022. <b>Illinois Department of Natural Resources Wildlife Preservation Fund</b>: Division of Environmental Biology: “Evaluating Species Distributions and Population Connectivity of Illinois’ Spring Cavefish (<i>Forbesichthys</i> spp.) using Genomics.”</li>
+
+<li>Co-PI: 2020. <b>Upper Mississippi River Restoration (UMRR) Program Science in Support of Management>/b>: “Augmenting the UMRR fish vital rates project with greater species representation for genetics and otolith microchemistry.”</li>
+
+<li>Co-PI: 2020. <b>Illinois Department of Natural Resources Wildlife Preservation Fund</b>: “Evaluating Population Genomic Heterogeneity for the Illinois’ Remnant Mottled Sculpin (<i>Cottus bairdi</i>).”</li>
+  
 <li>2017. <b>National Science Foundation</b>: Postdoctoral Research Fellowships in Biology in Research Using Biological Collections: “Evolution of Defensive Traits and Diversification in Catfishes.”</li>
 
 <li>2013-2015. <b>Auburn University</b>, Cellular & Molecular Biosciences Peaks in Excellence Research Fellowship.</li>
-</ul>
-
-### Awards
-
-<ul style="list-style-type:disk">
-<li>2017. Society of Systematic Biologists <b>Ernst Mayr Student Award Symposium Finalist</b> at Evolution 2017.</li>
-
-<li>2013. American Society of Ichthyologists & Herpetologists <b>Stoye Award for Best Student Oral Presentation in General Ichthyology</b> at Joint Meeting of Ichthyologists & Herpetologists.</li>
-
-<li>2011. Neotropical Ichthyological Association <b>Best Student Poster Award winner</b> at Joint Meeting of Ichthyologists and Herpetologists.</li>
 </ul>
 
 ### Invited Presentations
@@ -51,7 +49,9 @@ Minors in Marine Studies, Business Administration.</li>
 
 <b>Departmental Seminars</b>
 <ul style="list-style-type:disk">
-<li>2018. Program in Ecology, Evolution, & Conservation Biology, University of Illinois at Urbana-Champaign.</li>
+<li>2023. Illinois Natural History Survey, University of Illinois at Urbana-Champaign.</li>
+<li>2021. Department of Biological Sciences, Cal Poly Pomona.</li>
+<li>2018. Department of Biological Sciences, DePaul University.</li>
 <li>2018. Illinois Natural History Survey, University of Illinois at Urbana-Champaign.</li>
 <li>2017. Florida Museum of Natural History, University of Florida.</li>
 <li>2017. Emory University, Population Biology, Ecology & Evolution.</li>
