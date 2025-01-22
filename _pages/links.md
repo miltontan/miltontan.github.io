@@ -30,10 +30,6 @@ students, postdocs, and early career researchers (or really anyone else) by Jacl
 </ul>
 
 ### Undergraduate Research
-<ul style="list-style-type:disk">
-  <li><a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1745">Some modest and practical advice for undergraduate researchers by Vikram Chhatre</a></li>
-  <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484">Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo</a></li>
-</ul>
 - [Some modest and practical advice for undergraduate researchers by Vikram Chhatre](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1745)
 - [Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484)
 
