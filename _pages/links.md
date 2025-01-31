@@ -84,6 +84,8 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### Data Visualization
 *   [Fundamentals of Data Visualization by Claus Wilke (online book)](https://serialmentor.com/dataviz/)
 *   [Ten Simple Rules for Better Figures by Nicolas Rougier et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+*   [Introduction to Color Schemes by Paul Tol](https://personal.sron.nl/~pault/)
+
 ## Peer Review
 
 ### Being a Peer Reviewer
