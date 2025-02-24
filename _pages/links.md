@@ -136,6 +136,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### R
 *   [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/) (Check out the base R one!)
 *   [Learn R with Swirl (Interactive R lessons within R)](https://swirlstats.com/students.html): Install the R Programming course for good first basic lessons!
+    *   Note: When loading Manipulating Data, you may hit an error, but it can be fixed using the following: [GitHub Issues Page](https://github.com/swirldev/swirl/issues/893)
 *   [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) (a link list with books for R)
 *   [Learning R Resources by Josclein Rocha](https://github.com/Joscelinrocha/Learning-R-Resources/wiki/a.-Learning-R) (links marked by Beginner, Intermediate, or Advanced)
 *   [R for Cats (An intro to R for new programmers) by Scott Chamberlain](https://rforcats.net/) (Includes introduction to using R to get data from the web)
