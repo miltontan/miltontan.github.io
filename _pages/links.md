@@ -135,7 +135,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Specifying substitution models in mrbayes by Brant Faircloth](https://gist.github.com/brantfaircloth/895282)
 
 ### R
-*   [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/) (Check out the base R one!)
+*   [R cheat sheets](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html) (Check out the base R one!)
 *   [Learn R with Swirl (Interactive R lessons within R)](https://swirlstats.com/students.html): Install the R Programming course for good first basic lessons!
     *   Note: When loading Manipulating Data, you may hit an error, but it can be fixed using the following: [GitHub Issues Page](https://github.com/swirldev/swirl/issues/893)
 *   [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources) (a link list with books for R)
