@@ -27,6 +27,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### Undergraduate Research
 * [Some modest and practical advice for undergraduate researchers by Vikram Chhatre](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1745)
 * [Ten simple rules to make the most out of your undergraduate research career by Megan Yu & Yu-Min Kuo](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484)
+* [Building Your Individual Development Plan: a Guide for Undergraduate Students by SACNAS](https://medium.com/stem-and-culture-chronicle/building-your-individual-development-plan-idp-a-guide-for-undergraduate-students-f14feca9111c)
 
 ### Finding and Applying for Graduate School
 *   [Demystifying the Graduate School Application Process by Estien et al.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.2029)
