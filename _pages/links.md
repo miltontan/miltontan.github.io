@@ -40,6 +40,9 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [A guide for applying to graduate school in Biology by German Lab](https://german.bio.uci.edu/images/PDF/Application_Guide.pdf)
 *   [How to Apply for Grad School (and questions to ask before graduate school) by Danielle D Crain](https://danicrain.netlify.app/pdf/STEMculture_2019_QsforGradSchool.pdf)
 
+### How to Graduate School
+*   [Graduate Student Mentoring Guide: a Guide for Students by University of Michigan Rackham Graduate School](https://rackham.umich.edu/downloads/student-mentoring-handbook.pdf)
+
 ### How to read a scientific paper
 *   [Infographic: How to read a scientific paper by Natalia Rodriguez](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
 *   [How to read a scientific paper by the American Society of Plant Biologists](http://aspb.org/wp-content/uploads/2016/04/HowtoReadScientificPaper.pdf)
