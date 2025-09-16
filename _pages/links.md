@@ -163,6 +163,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ## Postdocs and jobs
 *   [ecology, evolution, & quantitative postdoc fellowship opportunities](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0)
+*   [Early Career Funding Opportunities by Johns Hopkins University](https://research.jhu.edu/rdt/funding-opportunities/early-career/)
 *   [Unwritten rules of applying for postdocs by B. Duygu Özpolat](https://genestogenomes.org/unwritten-rules-of-applying-for-postdocs/)
 *   [Applying to a job in the U.S. Federal Government with a graduate degree by Shawn Taylor](https://docs.google.com/document/d/15ylkL0gIAf5vlrS5-T87MJoO9x52uqroV_9acWQmn6A/)
 *   [Recommended Reading for Career Options for PhDs by Jennifer Polk](https://fromphdtolife.com/resources/recommended-reading/)
