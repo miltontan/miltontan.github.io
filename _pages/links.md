@@ -133,6 +133,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Introduction to text manipulation on UNIX-based systems by Brad Yoes](https://www.ibm.com/developerworks/aix/library/au-unixtext/index.html)
 *   [Unix, R and python tools for genomics and data science by Ming Tang](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 *   [A Quick Guide to Organizing Computational Biology Projects by William Stafford Noble](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+*   [Pure Bash Bible by Dylan Araps](https://github.com/dylanaraps/pure-bash-bible?tab=readme-ov-file)
   
 ### Genetics and Phylogenetics
 *   [Evolutionary Genetics: Concepts, Analysis & Practice (Online Textbook) by Mark Ravinet & Glenn-Peter Sætre Oslo](https://evolutionarygenetics.github.io/)
