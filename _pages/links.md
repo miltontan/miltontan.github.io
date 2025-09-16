@@ -84,6 +84,8 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Ten Simple Rules for Making Good Oral Presentations by Philip Bourne](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077)
 *   [Ten simple rules for short and swift presentations by Christopher Lortie](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005373)
 *   [Ten Simple Rules for a Good Poster Presentation by Thomas Erren & Philip Bourne](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030102)
+*   [Better Posters blog by Zen Faulkes](https://betterposters.blogspot.com/)
+*   [Slides that present themselves: The assertion–evidence approach by Claus Wilke](https://blog.genesmindsmachines.com/p/slides-that-present-themselves-the)
 
 ### Data Visualization
 *   [Fundamentals of Data Visualization by Claus Wilke (online book)](https://serialmentor.com/dataviz/)
