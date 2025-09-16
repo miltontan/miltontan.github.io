@@ -52,6 +52,8 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ### Impostor Syndrome
 *   [The importance of stupidity in scientific research by Martin Schwartz (Journal of Cell Science)](http://jcs.biologists.org/content/121/11/1771)
+  *   [Night Science Podcast: Martin Schwartz and the importance of stupidity in science
+](https://podcasts.apple.com/us/podcast/74-martin-schwartz-and-the-importance-of/id1563415749?i=1000704281460)
 *   ["Unmasking the Impostor" by Karen Kaplan (Nature)](https://www.nature.com/naturejobs/science/articles/10.1038/nj7245-468a)
 
 ### Conferences
