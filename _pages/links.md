@@ -39,6 +39,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Applying to a PhD program in the US as an international student by Rafael Marcondes (written for students interested in evolutionary biology)](https://ssecommunityblog.org/applying-to-a-phd-program-in-the-us-as-an-international-student/)
 *   [A guide for applying to graduate school in Biology by German Lab](https://german.bio.uci.edu/images/PDF/Application_Guide.pdf)
 *   [How to Apply for Grad School (and questions to ask before graduate school) by Danielle D Crain](https://danicrain.netlify.app/pdf/STEMculture_2019_QsforGradSchool.pdf)
+*   [Cientifico Latino: Writing Center (Includes Graduate School Application Prep Guide and Graduate Research Fellowship guides and examples)](https://www.cientificolatino.com/writing-center)
 
 ### How to Graduate School
 *   [Graduate Student Mentoring Guide: a Guide for Students by University of Michigan Rackham Graduate School](https://rackham.umich.edu/downloads/student-mentoring-handbook.pdf)
