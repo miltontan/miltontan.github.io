@@ -30,6 +30,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 * [Building Your Individual Development Plan: a Guide for Undergraduate Students by SACNAS](https://medium.com/stem-and-culture-chronicle/building-your-individual-development-plan-idp-a-guide-for-undergraduate-students-f14feca9111c)
 
 ### Finding and Applying for Graduate School
+*   [Applying to US Graduate School in Ecology, Evolution, and Related Fields by Brian O'Meara](https://applyingtoeeb.info/)
 *   [Demystifying the Graduate School Application Process by Estien et al.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.2029)
 *   [Graduate School Application Cheat Sheet (Hints and tips for the PhD application process) by Field Guides program at University of Minnesota](https://docs.google.com/document/d/1fNfQVwDCTUFejDsimIq8Mn2srWEA97tqVTsDkQQ1UpE/edit)
 *   [Evolution & Ecology Graduate School Preview (Guide to Applying to Graduate EEB Programs) by UC Davis Population Biology graduate Group](https://eegradpreview.weebly.com/)
