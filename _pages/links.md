@@ -91,7 +91,8 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Better Posters blog by Zen Faulkes](https://betterposters.blogspot.com/)
 *   [Slides that present themselves: The assertion–evidence approach by Claus Wilke](https://blog.genesmindsmachines.com/p/slides-that-present-themselves-the)
 
-### Data Visualization
+### Data Visualization and Accessibility
+*   [Braille Institute Atkinson Hyperlegible Font](https://www.brailleinstitute.org/freefont/#download)
 *   [Fundamentals of Data Visualization by Claus Wilke (online book)](https://serialmentor.com/dataviz/)
 *   [Ten Simple Rules for Better Figures by Nicolas Rougier et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 *   [Introduction to Color Schemes by Paul Tol](https://personal.sron.nl/~pault/)
