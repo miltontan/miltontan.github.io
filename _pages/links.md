@@ -72,6 +72,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Ten Simple (Empirical) Rules for Writing Science by Cody Weinberger et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
 *   [Ten simple rules for structuring papers by Brett Mensh and Konrad Kording](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 *   [Journal/Author Name Estimator (a tool that helps find a journal that fits your abstract)](https://jane.biosemantics.org/)
+*   [How to write consistently boring scientiﬁc literature by Kaj Sand-Jensen](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/j.0030-1299.2007.15674.x)
 
 ### Telling the Story
 *   ["How to write/present science: BABY-WEREWOLF-SILVER BULLET" by Andrew Hendry (Eco-Evo Evo-Eco)](https://ecoevoevoeco.blogspot.com/2014/10/how-to-writepresent-science-baby.html)
