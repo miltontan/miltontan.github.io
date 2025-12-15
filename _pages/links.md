@@ -176,6 +176,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [Applying to a job in the U.S. Federal Government with a graduate degree by Shawn Taylor](https://docs.google.com/document/d/15ylkL0gIAf5vlrS5-T87MJoO9x52uqroV_9acWQmn6A/)
 *   [Recommended Reading for Career Options for PhDs by Jennifer Polk](https://fromphdtolife.com/resources/recommended-reading/)
 *   [Tenure Track Faculty Job Interview Questions](https://docs.google.com/document/d/1h68OtynBbrONBbSD1AOU2wACCo6IYLsEttdGi97ke74/edit)
+*   [Ten Simple Rules for landing on the right job after your PhD or postdoc by Kuan-lin Huang](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007723)
 
 ## Info for Faculty
 *   [Faculty Resource Guide to Recruiting to improve Diversity, Equity, Inclusion, Justice, and Anti-Racism by UMass Amherst](https://docs.google.com/document/d/17aEQzKQnU9n_ab6ekYMCPncH8U0e8iZ1gx9CWvHAQvE/edit)
