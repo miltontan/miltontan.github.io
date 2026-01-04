@@ -51,6 +51,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [How to read and understand a scientific paper: a guide for non-scientists by Jennifer Raff](http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
 *   [Ten simple rules for reading a scientific paper by Maureen A. Carey, Kevin L. Steiner, William A. Petri Jr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 *   [PRINT YOUR OWN: Journal article notebook by Christine Liu (a printable notebook template for taking notes on papers)](https://www.patreon.com/posts/print-your-own-7765312)
+*   [How to Take Notes in This Class (a guide on how to take notes on readings)](https://docs.google.com/document/d/1d9rGOScJ5rSsjJTowR1IjuTHplCPJKUM5ifEGbsTk04/edit?tab=t.0)
 
 ### Impostor Syndrome
 *   [The importance of stupidity in scientific research by Martin Schwartz (Journal of Cell Science)](http://jcs.biologists.org/content/121/11/1771)
