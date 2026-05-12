@@ -30,7 +30,7 @@ Minors in Marine Studies, Business Administration.</li>
 
 <li>2022. <b>Illinois Department of Natural Resources Wildlife Preservation Fund</b>: Division of Environmental Biology: “Evaluating Species Distributions and Population Connectivity of Illinois’ Spring Cavefish (<i>Forbesichthys</i> spp.) using Genomics.”</li>
 
-<li>Co-PI: 2020. <b>Upper Mississippi River Restoration (UMRR) Program Science in Support of Management>/b>: “Augmenting the UMRR fish vital rates project with greater species representation for genetics and otolith microchemistry.”</li>
+<li>Co-PI: 2020. <b>Upper Mississippi River Restoration (UMRR) Program Science in Support of Management</b>: “Augmenting the UMRR fish vital rates project with greater species representation for genetics and otolith microchemistry.”</li>
 
 <li>Co-PI: 2020. <b>Illinois Department of Natural Resources Wildlife Preservation Fund</b>: “Evaluating Population Genomic Heterogeneity for the Illinois’ Remnant Mottled Sculpin (<i>Cottus bairdi</i>).”</li>
   
