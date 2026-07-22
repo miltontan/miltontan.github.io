@@ -147,6 +147,7 @@ This page compiles helpful links on a variety of topics related to being a scien
 ### Genetics and Phylogenetics
 *   [Evolutionary Genetics: Concepts, Analysis & Practice (Online Textbook) by Mark Ravinet & Glenn-Peter Sætre Oslo](https://evolutionarygenetics.github.io/)
 *   [Specifying substitution models in mrbayes by Brant Faircloth](https://gist.github.com/brantfaircloth/895282)
+*   [BIOE591: Genomics for Ecology & Conservation by Ethan Link (Course materials)](https://elinck.org/genomics_eco_con/)
 
 ### R
 *   [R cheat sheets](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html) (Check out the base R one!)
@@ -164,9 +165,6 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [phytools blog by Liam Revell](http://blog.phytools.org/)
 *   [Phylogenetic Comparative Methods: Learning From Trees by Luke Harmon (online book)](https://lukejharmon.github.io/pcm/)
 *   [Phylogenetic Comparative Methods by Natalie Cooper and Robert Freckleton (online, unfinished book)](https://nhcooper123.github.io/pcm-primer/)
-
-### Genomics
-*   [How to predict genes using a two-pass (iterative) MAKER2 workflow by Sujai Kumar](https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md)
 
 ## Teaching
 *   [Evidence-Based Teaching Guides (American Society of Cell Biology)](https://lse.ascb.org/)
