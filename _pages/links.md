@@ -158,8 +158,12 @@ This page compiles helpful links on a variety of topics related to being a scien
 *   [R Beginner Tutorial via Happy Belly Bioinformatics by Mike Lee](https://astrobiomike.github.io/R/)
 *   [R for Data Science by Garrett Grolemund & Hadley Wickham](https://r4ds.had.co.nz/)
 *   [Getting Started With R When You Know Absolutely Nothing by Moin Syed](https://docs.google.com/document/d/1obm0tdkaaqdc1sfI9TZo3afz_ksKX5s64udD-WxbP0s/)
+
+### Phylogenetic Comparative Methods
 *   [Phylogenetics, Especially Comparative Methods available in R by Brian O'Meara](https://cran.r-project.org/web/views/Phylogenetics.html)
 *   [phytools blog by Liam Revell](http://blog.phytools.org/)
+*   [Phylogenetic Comparative Methods: Learning From Trees by Luke Harmon (online book)](https://lukejharmon.github.io/pcm/)
+*   [Phylogenetic Comparative Methods by Natalie Cooper and Robert Freckleton (online, unfinished book)](https://nhcooper123.github.io/pcm-primer/)
 
 ### Genomics
 *   [How to predict genes using a two-pass (iterative) MAKER2 workflow by Sujai Kumar](https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md)
