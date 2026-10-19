@@ -102,14 +102,15 @@ This page compiles helpful links on a variety of topics related to being a scien
 
 ## Peer Review
 
+### Submitting a Paper
+*   [How to convince an editor to accept your paper quickly by Ronald Hites](https://www.sciencedirect.com/science/article/pii/S0048969721043163)
+*   [Ten simple rules for writing a response to reviewers by William Noble](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
+*   [How not to respond to reviewers – even if it is Reviewer #3 by Simon Leather](https://simonleather.wordpress.com/2018/09/27/how-not-to-respond-to-reviewers-even-if-it-is-reviewer-3/)
+
 ### Being a Peer Reviewer
 *   [Ten Simple Rules for Reviewers by Philip Bourne & Alon Korngreen](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020110)
 *   [How to be a reviewer/editor by Andrew Hendry (Eco-Evo Evo-Eco)](https://ecoevoevoeco.blogspot.com/2014/11/how-to-be-reviewereditor.html)
 *   [A Guide to Peer Review in Ecology and Evolution by the British Ecological Society](https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)
-
-### Responding to Peer Review
-*   [Ten simple rules for writing a response to reviewers by William Noble](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
-*   [How not to respond to reviewers – even if it is Reviewer #3 by Simon Leather](https://simonleather.wordpress.com/2018/09/27/how-not-to-respond-to-reviewers-even-if-it-is-reviewer-3/)
 
 ## Curating an online presence
 *   [ORCID](https://orcid.org/)
